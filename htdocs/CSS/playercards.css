@@ -1,0 +1,16 @@
+.trigger_popup_fricc {
+    cursor: pointer;
+    text-align:left;
+    display: inline;
+    font-size: 20px;
+    /*font-size: 20px;
+    margin: 20px;
+    display: inline-block;
+    font-weight: bold;*/
+}
+.trigger_popup_fricc:hover {
+    color:lightseagreen;
+}
+body.dark-theme .trigger_popup_fricc:hover{
+  color:rgb(164, 165, 165);
+}
