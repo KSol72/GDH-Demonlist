@@ -1,5 +1,5 @@
 <ul class="nav">
-  <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "changelog"){echo 'active-nav-item';}?>" href="https://platformerlist--gamersdreamhouse.repl.co/index.php">Platformers</a></li>
+  <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "changelog"){echo 'active-nav-item';}?>" href="https://gdhplatformers.hpsk.me/index.php">Platformers</a></li>
     <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "leaderboard"){echo 'active-nav-item';}?>" href="leaderboard.php">Leaderboard</a></li>
     <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "legacy"){echo 'active-nav-item';}?>" href="legacy.php">Legacy List</a></li>
     <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "extended"){echo 'active-nav-item';}?>" href="extended.php">Extended List</a></li>
