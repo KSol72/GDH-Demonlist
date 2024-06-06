@@ -12,7 +12,7 @@
             <a class="nav-buttons <?php if($_SESSION['active-nav'] == "extended"){echo 'active-nav-item';}?>" href="extended.php">Extended List</a>
             <a class="nav-buttons <?php if($_SESSION['active-nav'] == "legacy"){echo 'active-nav-item';}?>" href="legacy.php">Legacy List</a>
             <a class="nav-buttons <?php if($_SESSION['active-nav'] == "leaderboard"){echo 'active-nav-item';}?>" href="leaderboard.php">Leaderboard</a>
-    <a class="nav-buttons <?php if($_SESSION['active-nav'] == "platformerlist"){echo 'active-nav-item';}?>" href="https://gamersdreamhouseplatformers.replit.app/index.php">Platformers</a>
+    <a class="nav-buttons <?php if($_SESSION['active-nav'] == "platformerlist"){echo 'active-nav-item';}?>" href="https://gdhplatformers.hpsk.me/">Platformers</a>
 </div>
     </li>
 </ul>
