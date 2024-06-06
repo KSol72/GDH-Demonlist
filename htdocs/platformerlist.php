@@ -1,24 +1,23 @@
 <?php
 session_start();
-$_SESSION['active-nav'] = '61plus';
+$_SESSION['active-nav'] = 'platformerlist';
 
 $themeClass = '';
 if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   $themeClass = 'dark-theme';
 }
-
 ?>
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <meta property="og:title" content="Geometry Dash LRR Demonlist">
-    <meta property="og:description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
-    <meta name="author" content="ryan9328">
-    <meta name="keywords" content="ryan9328,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players,geometry dash, LRR, 60hz, 60HZ, 75hz, 75HZ, geometry dash 60hz demonlist, GD 60hz list">
-    <meta name="description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
-    <title>GD LRR Demon List</title>
+    <meta property="og:title" content="GDH Demonlist">
+    <meta property="og:description" content="A demon list with demons.">
+    <meta name="author" content="KSol">
+    <meta name="keywords" content="gdhdemonlist,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players, 60hz, 60HZ, 75hz, 75HZ,,">
+    <meta name="description" content="A demon list dedicated to GDH Members.">
+    <title>GDH: Demonlist</title>
     <link href="CSS/levelcards.css?v=2021-03-23" rel="stylesheet" type="text/css" />
     <link href="CSS/nav.css?v=2021-03-23" rel="stylesheet" type="text/css" />
     <link href="CSS/list.css?v=2020-10-29" rel="stylesheet" type="text/css" />
@@ -31,27 +30,22 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-  
+
   <?php include "nav.php" ?>
   
     <div id="levels-container"> 
-      <h1 style = "text-align:center">61hz+ levels</h1>
-      <p style = "text-align:center">Here, we feature any list-worthy demons that have been beaten on 61-75hz but are not eligible for normal rankings due to not having a 60hz victor. This is to recognize the achievements of 61-75hz players and also to encourage 60hz players to beat these levels to get them ranked by making them more known to the community.
-        <br>
-        <br>
-        NOTE: Unless you COMPLETE one of these levels on 60hz, please do NOT submit records for these levels.
-        <br>
-        <br></p>
+      <h1 style = "text-align:center">Platformer List</h1>
+      <p style = "text-align:center">The hardest Platformer levels completed by members of Gamers Dream House (WORK IN PROGRESS, CURRENTLY DISPLAYS CURRENT OG LIST)<br></a></p>
     </div>
-
 
     <!-- scripts to include -->
     <?php
       include "scripts/collapsible-js.php";
-      include "scripts/61plus-js.php";
       include "scripts/dropdown-js.php";
+      include "scripts/og list-js.php";
       include "scripts/videoresize-js.php";
       include "scripts/darkbutton-js.php";
     ?>
+    
   </body>
 </html>

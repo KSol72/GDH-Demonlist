@@ -9,8 +9,8 @@
     font-weight: bold;*/
 }
 .trigger_popup_fricc:hover {
-    color:lightseagreen;
+    color:#9ea5ff;
 }
 body.dark-theme .trigger_popup_fricc:hover{
-  color:rgb(164, 165, 165);
+  color:rgb(117, 117, 117);
 }

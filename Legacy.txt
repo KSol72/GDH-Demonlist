@@ -1,0 +1,211 @@
+https://sites.google.com/view/gdh-legacy-list/legacy-demons-list
+
+,
+    "Ultimate Demon Mix": {
+    "name": "Ultimate Demon Mix",
+    "ytcode": "kPJDn3bOG54",
+    "publisher": "Zobros",
+    "list": [
+      {
+        "name": "[First Victor] ColorRox",
+        "link": "NA"
+      },
+      {
+        "name": "YungBelll",
+        "link": "NA"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/MZdRFAI8o7U"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/QS4Rx1SEt7o?t=443"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/1oYfMVtP9i8"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Anya II": {
+    "name": "Anya II",
+    "ytcode": "_coSohRlkAs",
+    "publisher": "Anya21",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://_coSohRlkAs"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Pyromaniac": {
+    "name": "Pyromaniac",
+    "ytcode": "g9Plp-7aVsU",
+    "publisher": "Glittershroom",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "NA"
+      },
+      {
+        "name": "ColorRox",
+        "link": "https://youtu.be/izpFupym9IU"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/hCdOuGBY3MA"
+      },
+      {
+        "name": "Ryoui",
+        "link": "NA"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Trip": {
+    "name": "Trip",
+    "ytcode": "xhfAdGM-o4s",
+    "publisher": "Michigun",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "NA"
+      },
+      {
+        "name": "TheMuchSavage",
+        "link": "NA"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Chroma": {
+    "name": "Chroma",
+    "ytcode": "Cjn6zMP1HUw",
+    "publisher": "Renn241",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/zNBmWcXngzE"
+      },
+      {
+        "name": "Chuck Danger",
+        "link": "https://youtu.be/8OY5l_xnLoY"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Osanda Verdict": {
+    "name": "Osanda Verdict",
+    "ytcode": "Mfod2jTl3YU",
+    "publisher": "v1tchrose",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/Mfod2jTl3YU"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Nine Paws": {
+    "name": "Nine Paws",
+    "ytcode": "AtNYx0oIXkg",
+    "publisher": "MaxyLand",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/AtNYx0oIXkg"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "The Secret Box": {
+    "name": "The Secret Box",
+    "ytcode": "uCjevkTAnuk",
+    "publisher": "MetalFace221",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "NA"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/EqEPyJ1fblM"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Magma Bound": {
+    "name": "Magma Bound",
+    "ytcode": "H3feuiwcNwk",
+    "publisher": "ScorchVx",
+    "list": [
+      {
+        "name": "[First Victor] YungBelll",
+        "link": "NA"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/aIClpO2O3Vw"
+      },
+      {
+        "name": "ColorRox",
+        "link": "NA"
+      },
+      {
+        "name": "Skellyton Guard",
+        "link": "https://youtu.be/y3S_F_aKWQk"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/t5UXHNq47Ic"
+      },
+      {
+        "name": "Wolfyy",
+        "link": "https://youtu.be/5n-vWPqmhdM"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/07aPLZ1i_pk"
+      },
+      {
+        "name": "TheMuchSavage",
+        "link": "https://youtu.be/Pt9-d1Mnrns"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Circles": {
+    "name": "Circles",
+    "ytcode": "gZ4FfTxx73I",
+    "publisher": "TNewCreators",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/gZ4FfTxx73I"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  }

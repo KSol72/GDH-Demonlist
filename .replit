@@ -1,2 +1,10 @@
-language = "php7"
 run = "php -S 0.0.0.0:8000 -t htdocs"
+entrypoint = "index.php"
+
+[deployment]
+deploymentTarget = "cloudrun"
+run = ["sh", "-c", "php -S 0.0.0.0:8000 -t htdocs"]
+
+[[ports]]
+localPort = 8000
+externalPort = 80

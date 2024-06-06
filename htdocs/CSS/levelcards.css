@@ -27,11 +27,8 @@ text-transform: none;
 
 body {
   margin: 0;
-  background: #fff;
-}
-body.dark-theme {
   color: #fff;
-  background: #323131;
+  background: #181A1B;
 }
 
 /**
@@ -48,12 +45,11 @@ main {
  */
 
 h1 {
+  color:white;
   font-size: 2em;
   margin: 0.67em 0;
 }
-body.dark-theme h1{
-  color:white;
-}
+
 
 /* Grouping content
    ========================================================================== */
@@ -64,12 +60,10 @@ body.dark-theme h1{
  */
 
 hr {
+  color: #181A1B;
   box-sizing: content-box; /* 1 */
   height: 0; /* 1 */
   overflow: visible; /* 2 */
-}
-body.dark-theme hr{
-  color: #323131;
 }
 
 /**
@@ -90,10 +84,8 @@ pre {
  */
 
 a {
-  background-color: transparent;
-}
-body.dark-theme a{
   color: white;
+  background-color: transparent;
 }
 
 /**
@@ -185,14 +177,9 @@ textarea {
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
+  background-color: #181A1B;
 }
-body.dark-theme button,
-body.dark-theme input,
-body.dark-theme optgroup,
-body.dark-theme select,
-body.dark-theme textarea{
-  background-color: #323131;
-}
+
 
 /**
  * Show the overflow in IE.
@@ -285,10 +272,8 @@ progress {
  */
 
 textarea {
+  color: #181A1B;
   overflow: auto;
-}
-body.dark-theme textarea{
-  color: #323131;
 }
 
 /**
@@ -385,8 +370,8 @@ template {
 	display: block;
 } */
 .collapsible, .collapsibleBig {
-  background-color: white;
-  color: rgba(33,33,33,1);
+  background-color: #0e0f10;
+  color: #0e0f10;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -396,21 +381,13 @@ template {
   outline: none;
   font-size: 15px;
 }
-body.dark-theme .collapsible, body.dark-theme .collapsibleBig{
-  background-color: #323131;
-  color: #323131;
-}
-
 
 .collapsible h3:after {
   content: '\002B';
-  color: rgba(33,33,33,1);
+  color: white;
   font-weight: bold;
   float: right;
   margin-left: 5px;
-}
-body.dark-theme .collapsible h3:after{
-  color: white;
 }
 
 .active h3:after {
@@ -419,13 +396,10 @@ body.dark-theme .collapsible h3:after{
 
 .collapsibleBig h1:after {
   content: '\002B';
-  color: rgba(33,33,33,1);
+  color: white;
   font-weight: bold;
   float: right;
   margin-left: 5px;
-}
-body.dark-theme .collapsibleBig h1:after{
-  color: white;
 }
 
 .active h1:after {
@@ -437,10 +411,7 @@ body.dark-theme .collapsibleBig h1:after{
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
-}
-body.dark-theme .content{
-  background-color: #323131;
+  background-color: #0a0b0c;
 }
 
 div a, div a:visited {
@@ -453,25 +424,19 @@ div {
     line-height: 1.25;
     font-weight: 100;
     /* margin-top: 25px; */
-    color: rgba(33,33,33,1);
+    color: white;
 }
 
 * {
   box-sizing: border-box;
 }
 
-body.dark-theme *{
-  /*background-color: #323131;*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #070809;
   color: white;
 }
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-body.dark-theme{
-  background-color: #323131;
-  color: white;
-}
 
 /* Float four columns side by side 
 .column {
@@ -494,12 +459,10 @@ body.dark-theme{
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
   padding: 10px;
-  background-color: #f1f1f1;
-}
-body.dark-theme .card{
-  background-color: #323131;
+  background-color: #0e0f10;
   color: white;
 }
+
 
 /* Responsive columns - centered column layout (vertical) on big screens */
 @media screen and (min-width: 1024px) {
@@ -534,27 +497,21 @@ body.dark-theme .card{
 }
 
 .title{
-  margin-left: 3%;
-}
-body.dark-theme .title{
-  background-color: #323131;
+  background-color: #0e0f10;
   color: white;
+  margin-left: 3%;
 }
 
 .LevelCard{
-  display:flex;
-}
-body.dark-theme .LevelCard{
-  background-color: #323131;
+  background-color: #0e0f10;
   color: white;
+  display:flex;
 }
 
 .flex:not(.no-stretch) > *:not(.no-stretch) {
-    flex-grow: 1;
-}
-body.dark-theme .flex:not(.no-stretch) > *:not(.no-stretch){
-  background-color: #323131;
-  color: white;
+  background-color: #0e0f10;
+  color: white;  
+  flex-grow: 1;
 }
 
 .flex {
@@ -563,7 +520,5 @@ body.dark-theme .flex:not(.no-stretch) > *:not(.no-stretch){
     position: relative;
     max-width: 100%;
     flex-flow: row nowrap;
-}
-body.dark-theme .flex{
-  color: white;
+    color: white;
 }

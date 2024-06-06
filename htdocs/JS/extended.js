@@ -104,7 +104,7 @@ function appendData(data) {
             </div>
             <div class = "title">
             <h2>${counter}. ${level.name} by ${level.publisher}</h2>
-            <h3>Victors: ${level.list.length} <br>Score: ${Math.round(100*(50.0 / (Math.pow(Math.E, 0.01 * counter)) * Math.log((210 / Math.pow(counter, 1.001)))))/100}</h3>
+            <h3>Victors: ${level.list.length} <br>Score: ${Math.round(104*(50.0 / (Math.pow(Math.E, 0.01 * counter)) * Math.log((210 / Math.pow(counter, 1.001)))))/100}</h3>
             </div>
             </section>
             <hr/></button>
@@ -135,7 +135,7 @@ function appendData(data) {
       for (let i = 0; i < level.list.length; i++) {
         let victor = document.createElement("div");
         victor.innerHTML = `
-          <h6>(${level.list[i].hertz}) ${level.list[i].name} - <a href = "${level.list[i].link}" target = "_blank">${level.list[i].link}</h6>
+          <h6>${level.list[i].name} - <a href = "${level.list[i].link}" target = "_blank">${level.list[i].link}</h6>
         `;
         listOfVictors.appendChild(victor);
       }

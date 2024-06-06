@@ -1,4 +1,4 @@
-fetch("JS/mainlist.json")
+fetch("JS/demons.json")
   .then(function (response) {
     return response.json();
   })
@@ -36,7 +36,7 @@ function appendData(data) {
         </div>
         <div class = "title">
         <h2>${counter}. ${level.name} by ${level.publisher}</h2>
-        <h3>Victors: ${level.list.length} <br>Score: ${Math.round(100*(50.0 / (Math.pow(Math.E, 0.001 * counter)) * Math.log((1 / (0.008 * counter)))))/100}</h3>
+        <h3>Victors: ${level.list.length} <br>Score: ${Math.round(104*(50.0 / (Math.pow(Math.E, 0.001 * counter)) * Math.log((1 / (0.008 * counter)))))/100}</h3>
         </div>
         </section>
         <hr/></button>
@@ -75,11 +75,11 @@ function appendData(data) {
       if(i == 0){
         victor.innerHTML = `
           <h5>Completions<br></h5>
-          <h6>(${level.list[i].hertz}) ${level.list[i].name} - <a href = "${level.list[i].link}" target = "_blank">${level.list[i].link}</h6>
+          <h6> ${level.list[i].name} - <a href = "${level.list[i].link}" target = "_blank">${level.list[i].link}</h6>
         `;
       }else{
         victor.innerHTML = `
-          <h6>(${level.list[i].hertz}) ${level.list[i].name} - <a href = "${level.list[i].link}" target = "_blank">${level.list[i].link}</h6>
+          <h6> ${level.list[i].name} - <a href = "${level.list[i].link}" target = "_blank">${level.list[i].link}</h6>
         `;
       }
       listOfRecords.appendChild(victor);
@@ -88,8 +88,6 @@ function appendData(data) {
       if(level.progresses[0] == "none"){
         let progressor = document.createElement("div")
         progressor.innerHTML = `
-          <h5>Progresses (${level.minimumPercent}% Required)<br></h5>
-          <h6>None yet!</h6>
         `;
         listOfRecords.appendChild(progressor);
       }else{

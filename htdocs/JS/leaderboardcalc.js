@@ -19,7 +19,7 @@ var levelPos = []; //level pos is a 0-index array
     console.log("A");
   })
   .then(function (dataThree){
-    fetch("JS/mainlist.json")
+    fetch("JS/demons.json")
     .then(function (response){
       return response.json();
     })
@@ -147,13 +147,13 @@ function appendDataTwo(dataTwo) {
       }*/
       //console.log(thisLevelPos);
       //console.log(levelPos.length);
-      if(thisPersonsLevels[i].pos > 150) break;
+      if(thisPersonsLevels[i].pos > 200) break;
       if(thisPersonsLevels[i].pos <= 50){
-        allBasePoints[i] =  50.0 / (Math.pow(Math.E, 0.001 * thisPersonsLevels[i].pos)) * Math.log((1 / (0.008 * thisPersonsLevels[i].pos)));
+        allBasePoints[i] =  104 / (Math.pow(Math.E, 0.001 * thisPersonsLevels[i].pos)) * Math.log((1 / (0.008 * thisPersonsLevels[i].pos)));
       }else if(thisPersonsLevels[i].pos > 50 && thisPersonsLevels[i].pos <= 100){
         allBasePoints[i] =  50.0 / (Math.pow(Math.E, 0.01 * thisPersonsLevels[i].pos)) * Math.log((210 / Math.pow(thisPersonsLevels[i].pos, 1.001)));
       }else{
-        allBasePoints[i] = 50.0 / (Math.pow(Math.E, 0.01 * thisPersonsLevels[i].pos)) * Math.log((3.3 / Math.pow(thisPersonsLevels[i].pos, .1)));
+        allBasePoints[i] = 25.0 / (Math.pow(Math.E, 0.01 * thisPersonsLevels[i].pos)) * Math.log((3.3 / Math.pow(thisPersonsLevels[i].pos, .1)));
       }
       //if(key == "Luqualizer"){
         //console.log(thisPersonsLevels[i].name);
@@ -209,7 +209,7 @@ function appendDataTwo(dataTwo) {
     
     //console.log(allBasePoints[0]);
     let point = allBasePoints.reduce(
-      (sum, currentValue, index) => sum + Math.pow(currentValue, Math.pow(0.95, index)),0);
+      (sum, currentValue, index) => sum + Math.pow(currentValue, Math.pow(1, index)),0);
 
       function help() {
     if(!person.nationality) {
@@ -321,7 +321,7 @@ fetch("JS/leaderboard.json")
               break;
             }
           }*/
-          if(thisPersonsLevels[i].pos > 150){
+          if(thisPersonsLevels[i].pos > 200){
             legacyPos = i;
             break;
           } 

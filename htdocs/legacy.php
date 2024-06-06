@@ -12,12 +12,12 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <meta property="og:title" content="Geometry Dash LRR Demonlist">
-    <meta property="og:description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
-    <meta name="author" content="ryan9328">
-    <meta name="keywords" content="ryan9328,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players,geometry dash, LRR, 60hz, 60HZ, 75hz, 75HZ, geometry dash 60hz demonlist, GD 60hz list">
-    <meta name="description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
-    <title>GD LRR Demon List</title>
+    <meta property="og:title" content="GDH Demonlist">
+    <meta property="og:description" content="A demon list with demons.">
+    <meta name="author" content="KSol">
+    <meta name="keywords" content="gdhdemonlist,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players, 60hz, 60HZ, 75hz, 75HZ,,">
+    <meta name="description" content="A demon list dedicated to GDH Members.">
+    <title>GDH: Demonlist</title>
     <link href="CSS/levelcards.css?v=2021-03-23" rel="stylesheet" type="text/css" />
     <link href="CSS/nav.css?v=2021-03-23" rel="stylesheet" type="text/css" />
     <link href="CSS/list.css?v=2020-10-29" rel="stylesheet" type="text/css" />
@@ -34,8 +34,8 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   <?php include "nav.php" ?>
   
     <div id="levels-container"> 
-      <h1 style = "text-align:center">Legacy Demons List</h1>
-      <p style = "text-align:center">Levels that once were hard enough to make the top 150, but have since fallen from grace. We will no longer be maintaining this part of the list, but we have kept it for nostalgic reasons. Please do NOT submit records for these levels. </p>
+      <h1 style = "text-align:center">Legacy List</h1>
+      <p style = "text-align:center">Levels that once were hard enough to make the top 200, but have since fallen from grace. We will NOT add new levels to this list but you can still submit records <a href = "https://discord.com/channels/701253096004649091/858490324183023646/858492451073425438" target = "_blank">here.</a> although they wont award any List Points.</p>
     </div>
 
     <!-- scripts to include -->
