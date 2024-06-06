@@ -166,7 +166,8 @@
           "The Rupture",
           "Arctic Lights",
           "Ragnarok",
-          "Verdant Landscape"
+          "Verdant Landscape",
+          "Crimson Planet"
         ],
         "progs": [
           "none"
@@ -352,7 +353,9 @@
           "Omicron",
           "Sailor of the Sun",
           "Aksion",
-          "Goldcrest Palace"
+          "Goldcrest Palace",
+          "GewErbiX",
+          "Reverence"
         ],
         "progs": [
             {
@@ -454,7 +457,22 @@
           "FISH FISH GODMODE",
           "Raindance",
           "Acu",
-          "Sazerix"
+          "Sazerix",
+          "Zaphkiel",
+          "Infernal Abyss",
+          "Falling Up",
+          "Conical Depression",
+          "Shape of the Sun",
+          "SUBVERSIVE",
+          "Breakout",
+          "Broken Signal",
+          "Niflhel",
+          "Polish Alphabet",
+          "Anya III",
+          "Torgue",
+          "Misty Mountains",
+          "Alcatraz",
+          "8o X"
         ],
         "progs": [
           {
@@ -467,9 +485,9 @@
             }
         ]
     },
-  "ColorRox": {
+  "YeahSlayed": {
    "nationality": "United_States",
-        "levels": [
+        "levels": [h
           "Killbot",
           "SUBVERSIVE",
           "Misty Mountains",
@@ -508,7 +526,9 @@
           "InfernitY",
           "Stalemate",
           "Sharp Minor",
-          "Dream Travel"
+          "Dream Travel",
+          "Conical Depression",
+          "Bloodbath"
         ],
         "progs": [
           "none"
@@ -562,7 +582,8 @@
           "Digital Descent",
           "Cybernetic Crescent",
           "Annihilation Nation",
-          "Erebus"
+          "Erebus",
+          "Cognition"
         ],
         "progs": [
           "none"
@@ -797,7 +818,8 @@
           "FISH FISH GODMODE",
           "Conical Depression",
           "DVP",
-          "Sailor of the Sun"
+          "Sailor of the Sun",
+          "Timor"
         ],
         "progs": [
           "none"
