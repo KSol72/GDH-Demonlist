@@ -127,13 +127,12 @@
       }
     ],
     "progresses": [
-      "none"
       {
                 "name": "Willow",
                 "percent": 89,
                 "link": "NA",
                 "hertz": "240"
-            }
+      }
     ]
   },
     "Audio Expulsion": {
