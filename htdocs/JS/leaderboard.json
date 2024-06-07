@@ -496,11 +496,11 @@
           {
                 "name": "Quantum Processing",
                 "percent": 82
-            },
+          },
           {
                 "name": "Berserk",
                 "percent": 97
-            }
+          }
         ]
     },
   "YeahSlayed": {
@@ -648,7 +648,7 @@
           {
                 "name": "Generic Wave",
                 "percent": 53
-            }
+          }
         ]
     },
   "Ryoui": {
@@ -670,7 +670,7 @@
         ],
         "progs": [
           "none"
-       ]
+        ]
     },
   "SkellytonGuard": {
    "nationality": "Indonesia",
@@ -706,7 +706,7 @@
         ],
         "progs": [
           "none"
-       ]
+        ]
     },
   "YungBelll": {
    "nationality": "United_States",
@@ -747,7 +747,7 @@
           {
                 "name": "Bloodbath",
                 "percent": 72
-            }
+          }
        ]
     },
   "Chuck Danger": {
@@ -769,15 +769,7 @@
         ],
         "progs": [
           "none"
-       ]
-    },
-  "Nybia": {
-   "nationality": "United_States",
-        "levels": [
-        ],
-        "progs": [
-          "none"
-       ]
+        ]
     },
   "Sulky": {
    "nationality": "United_States",

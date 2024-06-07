@@ -127,11 +127,12 @@
             {
                 "name": "Sulky",
                 "percent": 74,
-                "link": "https://youtu.be/1_4NmO4DqP0"
+                "link": "https://youtu.be/1_4NmO4DqP0",
+                "hertz": "360"
             }
         ]
   },
-  "Shardscapes": {
+    "Shardscapes": {
     "name": "Shardscapes",
     "ytcode": "WzpWDjG-TvQ",
     "minimumPercent": 50,
@@ -146,7 +147,8 @@
             {
                 "name": "Sulky",
                 "percent": 63,
-                "link": "https://youtu.be/Q6wCn-x0Tds"
+                "link": "https://youtu.be/Q6wCn-x0Tds",
+                "hertz": "360"
             }
     ]
   },
@@ -169,16 +171,16 @@
       "none"
     ]
   },
-  "Congregation": {
-  "name": "Congregation",
-  "ytcode": "5nuAYCHyaYk",
-  "minimumPercent": 50,
-  "publisher": "Presta",
-  "list": [
-    {
+    "Congregation": {
+    "name": "Congregation",
+    "ytcode": "5nuAYCHyaYk",
+    "minimumPercent": 50,
+    "publisher": "Presta",
+    "list": [
+      {
       "name": "[First Victor] AthenaFloof",
       "link": "https://youtu.be/LQXzXL6JS-M"
-    }
+      }
   ],
   "progresses": [
     "none"
@@ -368,7 +370,8 @@
       {
           "name": "KSol",
           "percent": 52,
-          "link": "NA"
+          "link": "NA",
+         "hertz": "360"
       }
     ]
   },
@@ -424,7 +427,7 @@
     "progresses": [
       "none"
     ]
-    },
+  },
     "Frozen Cave": {
     "name": "Frozen Cave",
     "ytcode": "4AAcxaOyI44",
@@ -528,6 +531,7 @@
       }
     ],
     "progresses": [
+      "none"
     ]
   },
     "Gamma": {
@@ -587,7 +591,8 @@
       {
           "name": "KSol",
           "percent": 58,
-          "link": "NA",
+          "link": "NA",,
+          "hertz": "360"
       }
     ]
   },
@@ -727,8 +732,9 @@
       {
                 "name": "Jager",
                 "percent": 53,
-                "link": "NA"
-            }
+                "link": "NA",
+                "hertz": "360"
+      }
     ]
   },
     "Titan Complex": {
@@ -867,8 +873,9 @@
       {
                 "name": "KSol",
                 "percent": 65,
-                "link": "https://youtu.be/MJBBovPHm0Y"
-            }
+                "link": "https://youtu.be/MJBBovPHm0Y",
+                "hertz": "360"
+      }
     ]
   },
     "Friday Vortex": {
@@ -1057,7 +1064,8 @@
       {
                 "name": "Willow",
                 "percent": 67,
-                "link": "NA"
+                "link": "NA",
+                "hertz": "360"
             }
     ]
   },
@@ -1213,8 +1221,9 @@
       {
                 "name": "Willow",
                 "percent": 92,
-                "link": "https://youtu.be/9Hl3jPT2wpg"
-            }
+                "link": "https://youtu.be/9Hl3jPT2wpg",
+                "hertz": "360"
+      }
     ]
   },
     "Black Blizzard": {
@@ -1244,7 +1253,8 @@
       {
                 "name": "YeahSlayed",
                 "percent": 65,
-                "link": "NA"
+                "link": "NA",
+                "hertz": "360"
             }
     ]
   },

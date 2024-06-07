@@ -127,6 +127,7 @@
       }
     ],
     "progresses": [
+      "none"
       {
                 "name": "Willow",
                 "percent": 89,
