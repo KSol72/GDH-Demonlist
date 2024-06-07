@@ -1,4 +1,80 @@
 {
+       "Infernal Abyss": {
+    "name": "Infernal Abyss",
+    "ytcode": "CiGF-Xq9mE8",
+    "publisher": "GgB0y",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/qQyJ3jwWZRs"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/magPoWmmwqE"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "RASH": {
+    "name": "RASH",
+    "ytcode": "_NOuBHBgfA4",
+    "minimumPercent": 50,
+    "publisher": "Loltad",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/VmOtoCIvOUU"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/O8qm-yC0rME"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+    },
+    "Kinetic Bypass": {
+    "name": "Kinetic Bypass",
+    "ytcode": "X03q8IwNdkQ",
+    "minimumPercent": 50,
+    "publisher": "Loltad",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/HdfjSBvLHOM"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Dolos": {
+    "name": "Dolos",
+    "ytcode": "Q20Su_QVrzI",
+    "minimumPercent": 50,
+    "publisher": "Enzeux",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "N/A"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/3GQLYORyvfY"
+      }
+    ],
+    "progresses": [
+      {
+                "name": "Willow",
+                "percent": 89,
+                "link": "NA",
+                "hertz": "240"
+            }
+    ]
+  },
     "Audio Expulsion": {
     "name": "Audio Expulsion",
     "ytcode": "3Sj3-j0-uMA",
