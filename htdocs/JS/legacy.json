@@ -1,4 +1,54 @@
 {
+    "CraZy III": {
+    "name": "CraZy III",
+    "ytcode": "47rBv19ov9I",
+    "publisher": "MrSupremeGD",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/uzF8MJdypQ8"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/Pt9-d1Mnrns?t=634"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/jdSIbUzgiiI"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "hi": {
+    "name": "hi",
+    "ytcode": "anBgz9zZ_vQ",
+    "publisher": "KrmaL",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/X-32OjzJaNI"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "The Bandere": {
+    "name": "The Bandere",
+    "ytcode": "W7njltOFN78",
+    "publisher": "Ka1ns",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/W7njltOFN78"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
       "Nine CircleX": {
     "name": "Nine CircleX",
     "ytcode": "bY36jxnVZy4",
@@ -19,7 +69,7 @@
     "publisher": "RedUniverse",
     "list": [
       {
-        "name": "[First Victor] TheMuchSavage",
+        "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/m76kZUXtswU"
       }
     ],
@@ -83,7 +133,7 @@
         "link": "https://youtu.be/pJ_AacJz_dY"
       },
       {
-        "name": "TheMuchSavage",
+        "name": "AthenaFloof",
         "link": "https://youtu.be/qK4XfaGGXZI"
       },
       {
@@ -109,7 +159,7 @@
     "publisher": "EndLevel",
     "list": [
       {
-        "name": "[First Victor] TheMuchSavage",
+        "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/lNfwDaiDn0M"
       },
       {

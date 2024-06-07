@@ -127,8 +127,7 @@
             {
                 "name": "Sulky",
                 "percent": 74,
-                "link": "https://youtu.be/1_4NmO4DqP0",
-                "hertz": "360"
+                "link": "https://youtu.be/1_4NmO4DqP0"
             }
         ]
   },
@@ -147,8 +146,7 @@
             {
                 "name": "Sulky",
                 "percent": 63,
-                "link": "https://youtu.be/Q6wCn-x0Tds",
-                "hertz": "288"
+                "link": "https://youtu.be/Q6wCn-x0Tds"
             }
     ]
   },
@@ -370,7 +368,7 @@
       {
           "name": "KSol",
           "percent": 52,
-          "link": "NA",
+          "link": "NA"
       }
     ]
   },
@@ -412,21 +410,21 @@
       "none"
     ]
   },
-    "Eternal Moment": {
-    "name": "Eternal Moment",
-    "ytcode": "rfUYZAsNphM",
+    "Plasma Pulse Finale": {
+    "name": "Plasma Pulse Finale",
+    "ytcode": "lvozFSpzBW0",
     "minimumPercent": 50,
-    "publisher": "Rainstorm",
+    "publisher": "xSmokes",
     "list": [
       {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/0GUFZPyM5lo"
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/gMbOXrr0_9I"
       }
     ],
     "progresses": [
       "none"
     ]
-  },
+    },
     "Frozen Cave": {
     "name": "Frozen Cave",
     "ytcode": "4AAcxaOyI44",
@@ -455,6 +453,36 @@
       {
         "name": "[First Victor] Aubrey",
         "link": "https://youtu.be/Rw3AT4PAG_E"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Requiem": {
+    "name": "Requiem",
+    "ytcode": "FIQoefLLs34",
+    "minimumPercent": 50,
+    "publisher": "Zylenox",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/o0AKghlCc-s"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Eternal Moment": {
+    "name": "Eternal Moment",
+    "ytcode": "rfUYZAsNphM",
+    "minimumPercent": 50,
+    "publisher": "Rainstorm",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/0GUFZPyM5lo"
       }
     ],
     "progresses": [
@@ -654,6 +682,21 @@
       "none"
     ]
   },
+    "Rage": {
+    "name": "Rage",
+    "ytcode": "Qp99t--lklc",
+    "minimumPercent": 50,
+    "publisher": "nSwish",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/V6oHB8iLvv4"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "xo": {
     "name": "xo",
     "ytcode": "HVBSRcjbEiE",
@@ -684,8 +727,7 @@
       {
                 "name": "Jager",
                 "percent": 53,
-                "link": "NA",
-                "hertz": "360"
+                "link": "NA"
             }
     ]
   },
@@ -825,8 +867,7 @@
       {
                 "name": "KSol",
                 "percent": 65,
-                "link": "https://youtu.be/MJBBovPHm0Y",
-                "hertz": "360"
+                "link": "https://youtu.be/MJBBovPHm0Y"
             }
     ]
   },
@@ -1016,8 +1057,7 @@
       {
                 "name": "Willow",
                 "percent": 67,
-                "link": "NA",
-                "hertz": "240"
+                "link": "NA"
             }
     ]
   },
@@ -1173,8 +1213,7 @@
       {
                 "name": "Willow",
                 "percent": 92,
-                "link": "https://youtu.be/9Hl3jPT2wpg",
-                "hertz": "360"
+                "link": "https://youtu.be/9Hl3jPT2wpg"
             }
     ]
   },
@@ -1205,8 +1244,7 @@
       {
                 "name": "YeahSlayed",
                 "percent": 65,
-                "link": "NA",
-                "hertz": "360"
+                "link": "NA"
             }
     ]
   },
@@ -1299,52 +1337,6 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/w1keJrIE6SU"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "SPEEDRUN": {
-    "name": "SPEEDRUN",
-    "ytcode": "gZ7VEr_c1pQ",
-    "publisher": "Kaito",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/JPYuc4NoNM0"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-   "Removed Submission": {
-    "name": "Removed Submission",
-    "ytcode": "f424Ow9osH0",
-    "publisher": "WHErwin",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/zCxbnKCNnNw"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/OkaWk4fRBN4"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-   "Carnage Mode": {
-    "name": "Carnage Mode",
-    "ytcode": "60XRAdhnBmw",
-    "publisher": "Findexi",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/60XRAdhnBmw"
       }
     ],
     "progresses": [

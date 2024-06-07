@@ -1,4 +1,50 @@
 {
+   "SPEEDRUN": {
+   "name": "SPEEDRUN",
+   "ytcode": "gZ7VEr_c1pQ",
+   "publisher": "Kaito",
+   "list": [
+     {
+       "name": "[First Victor] KSol",
+       "link": "https://youtu.be/JPYuc4NoNM0"
+     }
+   ],
+   "progresses": [
+     "none"
+   ]
+  },
+   "Removed Submission": {
+    "name": "Removed Submission",
+    "ytcode": "f424Ow9osH0",
+    "publisher": "WHErwin",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/zCxbnKCNnNw"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/OkaWk4fRBN4"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+   "Carnage Mode": {
+    "name": "Carnage Mode",
+    "ytcode": "60XRAdhnBmw",
+    "publisher": "Findexi",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/60XRAdhnBmw"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Untitled": {
     "name": "Untitled",
     "ytcode": "qhfB1ObXuMo",
@@ -452,6 +498,10 @@
       {
         "name": "Halledo",
         "link": "https://youtu.be/44596dO8riw"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/_QzwTZbzwRI"
       }
     ],
     "progresses": [
@@ -1682,7 +1732,7 @@
         "link": "https://youtu.be/WcfDUzZDoNo"
       },
       {
-        "name": "TheMuchSavage",
+        "name": "AthenaFloof",
         "link": "https://youtu.be/tQhax3YWKBY"
       },
       {
@@ -1822,7 +1872,7 @@
         "link": "https://youtu.be/Pyq4PsNcRqc"
       },
       {
-        "name": "TheMuchSavage",
+        "name": "AthenaFloof",
         "link": "https://youtu.be/4ndRUHjX61Q"
       }
     ],
@@ -1870,7 +1920,7 @@
         "link": "https://youtu.be/cPbL_gBdkik"
       },
       {
-        "name": "TheMuchSavage",
+        "name": "AthenaFloof",
         "link": "https://youtu.be/cF3wyDCRhGU"
       },
       {
@@ -1957,7 +2007,7 @@
         "link": "https://youtu.be/nOZVCgK6KFI"
       },
       {
-        "name": "TheMuchSavage",
+        "name": "AthenaFloof",
         "link": "https://youtu.be/zhYnS-G3SnA"
       },
       {
@@ -2005,7 +2055,7 @@
     "publisher": "hexitine",
     "list": [
       {
-        "name": "[First Victor] TheMuchSavage",
+        "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/QWPiKBGpi0w"
       }
     ],
@@ -2175,7 +2225,7 @@
     "publisher": "Valentlne",
     "list": [
       {
-        "name": "[First Victor] TheMuchSavage",
+        "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/AYaSVcpDpBE"
       },
       {
@@ -2219,7 +2269,7 @@
         "link": "NA"
       },
       {
-        "name": "TheMuchSavage",
+        "name": "AthenaFloof",
         "link": "https://youtu.be/hSBERuBQKws"
       },
       {
@@ -2333,7 +2383,7 @@
         "link": "https://youtu.be/xh06BeSNSn8"
       },
       {
-        "name": "TheMuchSavage",
+        "name": "AthenaFloof",
         "link": "https://youtu.be/Pt9-d1Mnrns?t=539"
       },
       {
@@ -2515,56 +2565,6 @@
       {
         "name": "[First Victor] KSol",
         "link": "https://youtu.be/I20MXRlmGZ4"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "CraZy III": {
-    "name": "CraZy III",
-    "ytcode": "47rBv19ov9I",
-    "publisher": "MrSupremeGD",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/uzF8MJdypQ8"
-      },
-      {
-        "name": "TheMuchSavage",
-        "link": "https://youtu.be/Pt9-d1Mnrns?t=634"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/jdSIbUzgiiI"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "hi": {
-    "name": "hi",
-    "ytcode": "anBgz9zZ_vQ",
-    "publisher": "KrmaL",
-    "list": [
-      {
-        "name": "[First Victor] TheMuchSavage",
-        "link": "https://youtu.be/X-32OjzJaNI"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "The Bandere": {
-    "name": "The Bandere",
-    "ytcode": "W7njltOFN78",
-    "publisher": "Ka1ns",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/W7njltOFN78"
       }
     ],
     "progresses": [
