@@ -472,16 +472,17 @@
           "Torgue",
           "Misty Mountains",
           "Alcatraz",
-          "8o X"
+          "8o X",
+          "Phobos"
         ],
         "progs": [
           {
                 "name": "Quantum Processing",
-                "percent": 67
+                "percent": 82
             },
           {
                 "name": "Berserk",
-                "percent": 92
+                "percent": 97
             }
         ]
     },
