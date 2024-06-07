@@ -951,6 +951,21 @@
       "none"
     ]
   },
+    "Ouroboros Startpos 2": {
+    "name": "Ouroboros Startpos 2",
+    "ytcode": "YIsJeBI2c_c",
+    "minimumPercent": 44,
+    "publisher": "FoodyNooby",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/TjnZCEwy56w"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Artificial Ascent": {
     "name": "Artificial Ascent",
     "ytcode": "F64OHOMovv4",
@@ -1044,6 +1059,21 @@
       "none"
     ]
   },
+    "Death": {
+    "name": "Death",
+    "ytcode": "L9N_2HzLW3c",
+    "minimumPercent": 50,
+    "publisher": "AleeXhey",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/sHzRn6fQG8k"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Astral Divinity": {
     "name": "Astral Divinity",
     "ytcode": "vQCUhU9q4mg",
@@ -1069,6 +1099,21 @@
       {
         "name": "[First Victor] Jager",
         "link": "https://youtu.be/ffI47krTpTs"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Ethereal Artifice": {
+    "name": "Ethereal Artifice",
+    "ytcode": "iUDQtEU-dS8",
+    "minimumPercent": 45,
+    "publisher": "Zeroya",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/JogFvc--grA"
       }
     ],
     "progresses": [
@@ -1195,6 +1240,21 @@
       "none"
     ]
   },
+    "ErebuS": {
+    "name": "ErebuS",
+    "ytcode": "Xg8iDmV7Fw8",
+    "minimumPercent": 62,
+    "publisher": "Platnuu",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/7fFicLK5Djc"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "SubSonic": {
     "name": "SubSonic",
     "ytcode": "-0SMMRHXWGE",
@@ -1277,82 +1337,6 @@
     ],
     "progresses": [
       "none"
-    ]
-  },
-   "Infernal Abyss": {
-    "name": "Infernal Abyss",
-    "ytcode": "CiGF-Xq9mE8",
-    "publisher": "GgB0y",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/qQyJ3jwWZRs"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/magPoWmmwqE"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "RASH": {
-    "name": "RASH",
-    "ytcode": "_NOuBHBgfA4",
-    "minimumPercent": 50,
-    "publisher": "Loltad",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/VmOtoCIvOUU"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/O8qm-yC0rME"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-    },
-    "Kinetic Bypass": {
-    "name": "Kinetic Bypass",
-    "ytcode": "X03q8IwNdkQ",
-    "minimumPercent": 50,
-    "publisher": "Loltad",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/HdfjSBvLHOM"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Dolos": {
-    "name": "Dolos",
-    "ytcode": "Q20Su_QVrzI",
-    "minimumPercent": 50,
-    "publisher": "Enzeux",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "N/A"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/3GQLYORyvfY"
-      }
-    ],
-    "progresses": [
-      {
-                "name": "Willow",
-                "percent": 89,
-                "link": "NA",
-                "hertz": "240"
-            }
     ]
   }
 }
