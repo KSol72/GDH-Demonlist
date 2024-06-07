@@ -355,7 +355,8 @@
           "Aksion",
           "Goldcrest Palace",
           "GewErbiX",
-          "Reverence"
+          "Reverence",
+          "Removed Submission"
         ],
         "progs": [
             {
@@ -365,6 +366,14 @@
             {
                 "name": "Lucid Chaos",
                 "percent": 65
+            },
+            {
+                "name": "Cybernetic Crescent",
+                "percent": 58
+            },
+            {
+                "name": "Nhelv",
+                "percent": 52
             }
         ]
     },

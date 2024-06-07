@@ -367,7 +367,11 @@
       }
     ],
     "progresses": [
-      "none"
+      {
+          "name": "KSol",
+          "percent": 52,
+          "link": "NA",
+      }
     ]
   },
     "Ouroboros": {
@@ -552,7 +556,11 @@
       }
     ],
     "progresses": [
-      "none"
+      {
+          "name": "KSol",
+          "percent": 58,
+          "link": "NA",
+      }
     ]
   },
     "Molten Gear": {
@@ -1319,6 +1327,10 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/zCxbnKCNnNw"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/OkaWk4fRBN4"
       }
     ],
     "progresses": [
