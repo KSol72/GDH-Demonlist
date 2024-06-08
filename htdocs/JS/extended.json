@@ -965,6 +965,20 @@
       "none"
     ]
   },
+      "VIRTUE": {
+      "name": "VIRTUE",
+      "ytcode": "1C0Ac1lnHLE",
+      "publisher": "Varse",
+      "list": [
+        {
+          "name": "[First Victor] KSol",
+          "link": "NA"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "Broken Signal": {
     "name": "Broken Signal",
     "ytcode": "2ooLyFORyuU",
@@ -1240,6 +1254,20 @@
       "none"
     ]
   },
+      "Just Dance": {
+      "name": "Just Dance",
+      "ytcode": "70ARoK_NgsU",
+      "publisher": "Texic",
+      "list": [
+        {
+          "name": "[First Victor] KSol",
+          "link": "https://youtu.be/2gvM9ar3kmI?si=lRinDjPRogtxlk8Q"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "Anya III": {
     "name": "Anya III",
     "ytcode": "65ELCV_b_bo",
@@ -1657,6 +1685,20 @@
       "none"
     ]
   },
+      "Party Rock Anthem": {
+      "name": "Party Rock Anthem",
+      "ytcode": "CQnJiVlei40",
+      "publisher": "awesomeme360",
+      "list": [
+        {
+          "name": "[First Victor] KSol",
+          "link": "NA"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "Precipitance": {
     "name": "Precipitance",
     "ytcode": "asIV2kkmHlY",
@@ -1898,6 +1940,20 @@
       "none"
     ]
   },
+      "Paralysis": {
+      "name": "Paralysis",
+      "ytcode": "MRn2TA5RruY",
+      "publisher": "Milos482",
+      "list": [
+        {
+          "name": "[First Victor] KSol",
+          "link": "NA"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "Cataclysm": {
     "name": "Cataclysm",
     "ytcode": "34KiFCQOyfI",
@@ -2493,78 +2549,6 @@
       {
         "name": "[First Victor] Aubrey",
         "link": "NA"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Optic Daydream": {
-    "name": "Optic Daydream",
-    "ytcode": "PaZaWmIde1c",
-    "publisher": "SpiceBerry",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/D-L5a7VELZQ"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/4bOfo7-a5V8"
-      },
-      {
-        "name": "Jager",
-        "link": "https://youtu.be/XJLophb9H0w"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Cyber Chaos": {
-    "name": "Cyber Chaos",
-    "ytcode": "CpPtwnodQqE",
-    "publisher": "Hinds",
-    "list": [
-      {
-        "name": "[First Victor] SkellytonGuard",
-        "link": "https://youtu.be/J0iwHIJPilE"
-      },
-      {
-        "name": "YeahSlayed",
-        "link": "https://youtu.be/YpA3_5tJL4w"
-      },
-      {
-        "name": "Ksol",
-        "link": "https://youtu.be/ghYmqGBd0XM"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Belhor": {
-    "name": "Belhor",
-    "ytcode": "Nxz3O89MZTw",
-    "publisher": "MrSpaghetti",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/wbMcxkDWrUo"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Off The Hook": {
-    "name": "Off The Hook",
-    "ytcode": "I20MXRlmGZ4",
-    "publisher": "Prism",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/I20MXRlmGZ4"
       }
     ],
     "progresses": [

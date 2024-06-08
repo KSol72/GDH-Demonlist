@@ -1,0 +1,52 @@
+,
+"Chuck Danger": {
+ "nationality": "United_States",
+      "levels": [
+        "Incipient",
+        "Thanatophobia",
+        "Leyak",
+        "Bit Reaper",
+        "8o",
+        "Night Terrors",
+        "Rupture",
+        "Chroma",
+        "Star World",
+        "Windy Landscape",
+        "Starlit Smog",
+        "DVP",
+        "Shmarley Ville"
+      ],
+      "progs": [
+        "none"
+      ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
