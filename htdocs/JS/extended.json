@@ -579,6 +579,25 @@
       "none"
         ]
   },
+    "Codependence (2-Player)": {
+      "name": "Codependence (2-Player)",
+      "ytcode": "W_cXqbsY2DU",
+      "minimumPercent": 50,
+      "publisher": "TCTeam",
+      "list": [
+        {
+          "name": "[First Victors] KSol",
+          "link": "https://youtu.be/ZRCaGO8p3mc?si=n8iQhiVH9QXlQ-c_"
+        },
+        {
+          "name": "[First Victors] Jager",
+          "link": "https://youtu.be/Zc3LKdXBOoE?si=p35by1ApPIh8xVix"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+  },
    "INNARDS": {
     "name": "INNARDS",
     "ytcode": "pGagx2Ef2Jw",
