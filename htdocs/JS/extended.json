@@ -1,4 +1,23 @@
   {
+    "Athanatos": {
+      "name": "Athanatos",
+      "ytcode": "sdZcTcdASPE",
+      "minimumPercent": 50,
+      "publisher": "IIExenityII",
+      "list": [
+        {
+          "name": "[First Victor] AthenaFloof",
+          "link": "https://youtu.be/e8IAva2htLQ"
+        },
+        {
+          "name": "Willow",
+          "link": "https://youtu.be/w1keJrIE6SU"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
    "SPEEDRUN": {
    "name": "SPEEDRUN",
    "ytcode": "gZ7VEr_c1pQ",
@@ -2576,42 +2595,6 @@
       {
         "name": "[First Victor] KSol",
         "link": "https://youtu.be/VpouirP04F8"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Meta BoXes": {
-    "name": "Meta BoXes",
-    "ytcode": "imXQVY6sMbY",
-    "publisher": "MrSupremeGD",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/uR2gnvJUkaI"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Quest For Perfection": {
-    "name": "Quest For Perfection",
-    "ytcode": "m4gVjWg3pUk",
-    "publisher": "LazerBlitz",
-    "list": [
-      {
-        "name": "[First Victor] YeahSlayed",
-        "link": "https://youtu.be/OtdBlWLsTlU"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/eDsyK-iXoZM"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/skBgYnplBwI"
       }
     ],
     "progresses": [

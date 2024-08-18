@@ -13,6 +13,21 @@
     "progresses": [
             "none"
         ]
+   },
+        "Oblivion": {
+         "name": "Oblivion",
+         "ytcode": "bgmaHEDeLdE",
+         "minimumPercent": 50,
+         "publisher": "benji8080",
+         "list": [
+           {
+             "name": "[First Victor] Aubrey",
+             "link": "https://www.youtube.com/watch?v=PDvniuFwdTo"
+           }
+         ],
+         "progresses": [
+                 "none"
+             ]
   },
     "Cold Sweat": {
     "name": "Cold Sweat",
@@ -1331,25 +1346,6 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/FkYM56lN6EU"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Athanatos": {
-    "name": "Athanatos",
-    "ytcode": "sdZcTcdASPE",
-    "minimumPercent": 50,
-    "publisher": "IIExenityII",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/e8IAva2htLQ"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/w1keJrIE6SU"
       }
     ],
     "progresses": [

@@ -1,4 +1,40 @@
 {
+  "Meta BoXes": {
+    "name": "Meta BoXes",
+    "ytcode": "imXQVY6sMbY",
+    "publisher": "MrSupremeGD",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/uR2gnvJUkaI"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+  "Quest For Perfection": {
+    "name": "Quest For Perfection",
+    "ytcode": "m4gVjWg3pUk",
+    "publisher": "LazerBlitz",
+    "list": [
+      {
+        "name": "[First Victor] YeahSlayed",
+        "link": "https://youtu.be/OtdBlWLsTlU"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/eDsyK-iXoZM"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/skBgYnplBwI"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Deep Swim": {
     "name": "Deep Swim",
     "ytcode": "kuCTA_RT9oM",
