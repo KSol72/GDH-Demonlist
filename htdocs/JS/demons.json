@@ -16,7 +16,7 @@
    },
         "Oblivion": {
          "name": "Oblivion",
-         "ytcode": "bgmaHEDeLdE",
+         "ytcode": "PDvniuFwdTo",
          "minimumPercent": 50,
          "publisher": "benji8080",
          "list": [
@@ -29,9 +29,24 @@
                  "none"
              ]
   },
+    "Frost Spirit": {
+    "name": "Frost Spirit",
+    "ytcode": "RtTKP2WWcss",
+    "minimumPercent": 50,
+    "publisher": "Quaybus",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/fgmHD_QZjLo?si=9WkJWqTrUUuKSxWO"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
     "Cold Sweat": {
     "name": "Cold Sweat",
-    "ytcode": "w1D8AKZzioM",
+    "ytcode": "9fjSk1xh-SU",
     "minimumPercent": 50,
     "publisher": "para",
     "list": [
@@ -63,6 +78,21 @@
             "none"
         ]
   },
+    "Sky Shredder": {
+    "name": "Sky Shredder",
+    "ytcode": "BLcuecz9V0k",
+    "minimumPercent": 50,
+    "publisher": "Dorvict",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/BLcuecz9V0k?si=evyMy5pfnneEFI2x"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
     "Renevant": {
     "name": "Renevant",
     "ytcode": "2Y8kBw8YxO8",
@@ -87,6 +117,10 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/hx8m2Xc3nbE"
+      },
+      {
+        "name": "Aubrey",
+        "link": "https://youtu.be/2i6ynoJXx9Q?si=olujzTp2fLO0Juar"
       }
     ],
     "progresses": [
@@ -1177,7 +1211,7 @@
   },
     "Ethereal Artifice": {
     "name": "Ethereal Artifice",
-    "ytcode": "iUDQtEU-dS8",
+    "ytcode": "nNIen4JDCiA",
     "minimumPercent": 45,
     "publisher": "Zeroya",
     "list": [
@@ -1304,48 +1338,6 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/0T8eWz336yY"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "ErebuS": {
-    "name": "ErebuS",
-    "ytcode": "Xg8iDmV7Fw8",
-    "minimumPercent": 62,
-    "publisher": "Platnuu",
-    "list": [
-      {
-        "name": "[First Victor] Willow",
-        "link": "https://youtu.be/7fFicLK5Djc"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/M8aJok-hrJ0?si=Vz9X6txkRyiTOoYq"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "SubSonic": {
-    "name": "SubSonic",
-    "ytcode": "-0SMMRHXWGE",
-    "minimumPercent": 50,
-    "publisher": "Viprin",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/3epY_UTxD1A"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/FkYM56lN6EU"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/FkYM56lN6EU"
       }
     ],
     "progresses": [
