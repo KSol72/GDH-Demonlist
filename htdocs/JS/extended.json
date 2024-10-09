@@ -1,23 +1,4 @@
   {
-      "ErebuS": {
-      "name": "ErebuS",
-      "ytcode": "Xg8iDmV7Fw8",
-      "minimumPercent": 62,
-      "publisher": "Platnuu",
-      "list": [
-        {
-          "name": "[First Victor] Willow",
-          "link": "https://youtu.be/7fFicLK5Djc"
-        },
-        {
-          "name": "Halledo",
-          "link": "https://youtu.be/M8aJok-hrJ0?si=Vz9X6txkRyiTOoYq"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
-    },
       "SubSonic": {
       "name": "SubSonic",
       "ytcode": "-0SMMRHXWGE",
@@ -80,6 +61,10 @@
         {
           "name": "[First Victor] Ryoui",
           "link": "https://youtu.be/opfxMxIii-k?si=9jOoHk8d9DCIVTu1"
+        },
+        {
+          "name": "Willow",
+          "link": "https://youtu.be/TjnZCEwy56w"
         }
       ],
       "progresses": [
@@ -1744,6 +1729,10 @@
       {
         "name": "[First Victor] Ryoui",
         "link": "https://www.youtube.com/watch?v=Qex3DaQQMi8"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/iwphLa2SLYk"
       }
     ],
     "progresses": [
@@ -1880,6 +1869,10 @@
         {
           "name": "[First Victor] KSol",
           "link": "https://youtu.be/JXW2-7Or2Ko?si=uT5r_DczglL75Zip"
+        },
+        {
+          "name": "Willow",
+          "link": "https://youtu.be/iVHCNKP6FFk"
         }
       ],
       "progresses": [
@@ -2177,6 +2170,10 @@
         {
           "name": "KSol",
           "link": "https://youtu.be/7uGm84L5fvs?si=w0rQs_MXz4mYE1r6"
+        },
+        {
+          "name": "Willow",
+          "link": "https://youtu.be/_EQXtSL_zuw"
         }
       ],
       "progresses": [

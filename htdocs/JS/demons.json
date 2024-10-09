@@ -1056,21 +1056,6 @@
       "none"
     ]
   },
-    "Ouroboros Startpos 2": {
-    "name": "Ouroboros Startpos 2",
-    "ytcode": "YIsJeBI2c_c",
-    "minimumPercent": 44,
-    "publisher": "FoodyNooby",
-    "list": [
-      {
-        "name": "[First Victor] Willow",
-        "link": "https://youtu.be/TjnZCEwy56w"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
     "Artificial Ascent": {
     "name": "Artificial Ascent",
     "ytcode": "F64OHOMovv4",
@@ -1338,6 +1323,25 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/0T8eWz336yY"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+  "ErebuS": {
+    "name": "ErebuS",
+    "ytcode": "Xg8iDmV7Fw8",
+    "minimumPercent": 62,
+    "publisher": "Platnuu",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/7fFicLK5Djc"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/M8aJok-hrJ0?si=Vz9X6txkRyiTOoYq"
       }
     ],
     "progresses": [
