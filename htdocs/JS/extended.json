@@ -2313,20 +2313,6 @@
       "none"
     ]
   },
-    "Sweater Weather": {
-      "name": "Sweater Weather",
-      "ytcode": "MiXGfi7piKM",
-      "publisher": "Velvt",
-      "list": [
-        {
-          "name": "[First Victor] Jager",
-          "link": "https://youtu.be/kOqHGYMvt1k?si=usu9zpHtFJ5PIWKD"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
-    },
     "Night Life": {
     "name": "Night Life",
     "ytcode": "JIlWCbr2y5Q",
@@ -2505,6 +2491,20 @@
       "none"
     ]
   },
+    "Sweater Weather": {
+      "name": "Sweater Weather",
+      "ytcode": "MiXGfi7piKM",
+      "publisher": "Velvt",
+      "list": [
+        {
+          "name": "[First Victor] Jager",
+          "link": "https://youtu.be/kOqHGYMvt1k?si=usu9zpHtFJ5PIWKD"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "Dreamfully": {
     "name": "Dreamfully",
     "ytcode": "1leeB8YNU6g",
