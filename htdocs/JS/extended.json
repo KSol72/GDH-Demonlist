@@ -1721,6 +1721,24 @@
         "none"
       ]
     },
+      "Clarity": {
+      "name": "Clarity",
+      "ytcode": "AoGHq0PRFrQ",
+      "publisher": "Hypno",
+      "list": [
+        {
+          "name": "[First Victor] KSol",
+          "link": "https://youtu.be/BYTezCvXFHM?si=8Fm7hE4fn1d0EfqJ"
+        },
+        {
+          "name": "Jager",
+          "link": "https://youtu.be/AoGHq0PRFrQ"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "GLISTEN": {
     "name": "GLISTEN",
     "ytcode": "KHX2syBVVTw",
@@ -2545,56 +2563,6 @@
       {
         "name": "[First Victor] KSol",
         "link": "https://youtu.be/-urlwxLnG2E"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Thanatophobia": {
-    "name": "Thanatophobia",
-    "ytcode": "8pKPeYYTgIg",
-    "publisher": "Artumanka",
-    "list": [
-      {
-        "name": "[First Victor] YeahSlayed",
-        "link": "NA"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/Z_N0SP-Psjw"
-      },
-      {
-        "name": "YungBelll",
-        "link": "NA"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/hSBERuBQKws"
-      },
-      {
-        "name": "Aubrey",
-        "link": "https://youtu.be/ymNr9Zl2Lq0"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/ZRpPNu83HRM"
-      },
-      {
-        "name": "Jager",
-        "link": "https://youtu.be/9d9FUvePh5g"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/Fb-W86hiLjw"
-      },
-      {
-        "name": "Chuck Danger",
-        "link": "NA"
-      },
-      {
-        "name": "Wolfyy",
-        "link": "NA"
       }
     ],
     "progresses": [
