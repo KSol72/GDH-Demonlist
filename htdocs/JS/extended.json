@@ -1743,6 +1743,24 @@
         "none"
       ]
     },
+    "Corrosion": {
+      "name": "Corrosion",
+      "ytcode": "yc4gYY1vJgw",
+      "publisher": "Killa",
+      "list": [
+        {
+          "name": "[First Victor] Willow",
+          "link": "https://www.youtube.com/watch?v=K96biUPhwDQ"
+        },
+        {
+          "name": "KSol",
+          "link": "https://youtu.be/aqHAagw6zM0"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "GLISTEN": {
     "name": "GLISTEN",
     "ytcode": "KHX2syBVVTw",
@@ -2553,20 +2571,6 @@
       {
         "name": "sombra",
         "link": "https://youtu.be/2CZLRbKtznw"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "FXRE PXWER": {
-    "name": "FXRE PXWER",
-    "ytcode": "68z0DT83sV0",
-    "publisher": "Renn241",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/-urlwxLnG2E"
       }
     ],
     "progresses": [
