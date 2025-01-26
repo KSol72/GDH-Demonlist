@@ -916,15 +916,14 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/PV3KAz_JaT0"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/i_nYLzVCEBw"
       }
     ],
     "progresses": [
-      {
-                "name": "KSol",
-                "percent": 65,
-                "link": "https://youtu.be/MJBBovPHm0Y",
-                "hertz": "360"
-      }
+      "none"
     ]
   },
     "Friday Vortex": {
@@ -1248,6 +1247,10 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/oqx26_Sz20c"
+      },
+      {
+        "name": "KSol",
+        "link": "N/A"
       }
     ],
     "progresses": [

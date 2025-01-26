@@ -378,16 +378,14 @@
           "niwa",
           "Air Tech",
           "Clarity",
-          "Corrosion"
+          "Corrosion",
+          "Lucid Chaos",
+          "Berserk"
         ],
         "progs": [
             {
                 "name": "Sakupen Hell",
                 "percent": 55
-            },
-            {
-                "name": "Lucid Chaos",
-                "percent": 65
             },
             {
                 "name": "Cybernetic Crescent",
