@@ -1101,6 +1101,21 @@
                 "hertz": "360"
             }
     ]
+    },
+      "Martin": {
+        "name": "Martin",
+        "ytcode": "90VPJ-hgyJ8",
+        "minimumPercent": 50,
+        "publisher": "Soulax",
+        "list": [
+          {
+            "name": "[First Victor] Jager",
+            "link": "https://youtu.be/ffI47krTpTs"
+          }
+        ],
+        "progresses": [
+          "none"
+        ]
   },
     "Killbot": {
     "name": "Killbot",
@@ -1172,21 +1187,6 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/l9t7ucJzAg4"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-  "Martin": {
-    "name": "Martin",
-    "ytcode": "90VPJ-hgyJ8",
-    "minimumPercent": 50,
-    "publisher": "Soulax",
-    "list": [
-      {
-        "name": "[First Victor] Jager",
-        "link": "https://youtu.be/ffI47krTpTs"
       }
     ],
     "progresses": [
