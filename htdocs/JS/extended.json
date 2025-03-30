@@ -645,6 +645,10 @@
       {
         "name": "Halledo",
         "link": "https://youtu.be/ltgm510GlJs?si=lgYSm67JWmVtKREF"
+      },
+      {
+        "name": "Jager",
+        "link": "https://www.youtube.com/watch?v=8Xr3EqobGaw"
       }
     ],
     "progresses": [
@@ -756,20 +760,6 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/RJGgfNtpltA"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Interstellar Entropy": {
-    "name": "Interstellar Entropy",
-    "ytcode": "NOqWyoQEdOI",
-    "publisher": "LastPrismAlex",
-    "list": [
-      {
-        "name": "[First Victor] Skelly3628",
-        "link": "https://youtu.be/NOqWyoQEdOI"
       }
     ],
     "progresses": [
@@ -1193,6 +1183,24 @@
       "none"
     ]
   },
+      "Interstellar Entropy": {
+      "name": "Interstellar Entropy",
+      "ytcode": "NOqWyoQEdOI",
+      "publisher": "LastPrismAlex",
+      "list": [
+        {
+          "name": "[First Victor] Skelly3628",
+          "link": "https://youtu.be/NOqWyoQEdOI"
+        },
+        {
+          "name": "KSol",
+          "link": "NA"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "Niflhel": {
     "name": "Niflhel",
     "ytcode": "s_aBVGcQo6Q",
@@ -1862,6 +1870,20 @@
       "none"
     ]
   },
+      "Neferrous": {
+      "name": "Neferrous",
+      "ytcode": "rEp3Y8xiv18",
+      "publisher": "Zylenox",
+      "list": [
+        {
+          "name": "[V] KSol",
+          "link": "https://youtu.be/rEp3Y8xiv18"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "Alcatraz": {
     "name": "Alcatraz",
     "ytcode": "QVDHfQdMF2E",

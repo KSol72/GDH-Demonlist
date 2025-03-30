@@ -380,7 +380,10 @@
           "Clarity",
           "Corrosion",
           "Lucid Chaos",
-          "Berserk"
+          "Berserk", 
+          "The Rupture",
+          "Neferrous",
+          "Interstellar Entropy"
         ],
         "progs": [
             {
@@ -678,7 +681,8 @@
           "Codependence (2-Player)",
           "niwa",
           "Sweater Weather",
-          "Clarity"
+          "Clarity",
+          "Sigma Interface"
         ],
         "progs": [
           {
