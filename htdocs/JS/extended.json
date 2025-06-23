@@ -1,4 +1,23 @@
   {
+    "ErebuS": {
+      "name": "ErebuS",
+      "ytcode": "Xg8iDmV7Fw8",
+      "minimumPercent": 62,
+      "publisher": "Platnuu",
+      "list": [
+        {
+          "name": "[First Victor] Willow",
+          "link": "https://youtu.be/7fFicLK5Djc"
+        },
+        {
+          "name": "Halledo",
+          "link": "https://youtu.be/M8aJok-hrJ0?si=Vz9X6txkRyiTOoYq"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
       "SubSonic": {
       "name": "SubSonic",
       "ytcode": "-0SMMRHXWGE",
@@ -2583,37 +2602,5 @@
       "progresses": [
         "none"
       ]
-    },
-    "Dreamfully": {
-    "name": "Dreamfully",
-    "ytcode": "1leeB8YNU6g",
-    "publisher": "Ka1sa",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/1leeB8YNU6g"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "MOTHMELONS": {
-    "name": "MOTHMELONS",
-    "ytcode": "SzOED_9SNuE",
-    "publisher": "Valentlne",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/AYaSVcpDpBE"
-      },
-      {
-        "name": "sombra",
-        "link": "https://youtu.be/2CZLRbKtznw"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  }
+    }
 }

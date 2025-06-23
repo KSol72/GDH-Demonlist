@@ -29,6 +29,21 @@
                  "none"
              ]
   },
+        "Kenos": {
+         "name": "Kenos",
+         "ytcode": "GLhl4-fjPc0",
+         "minimumPercent": 50,
+         "publisher": "npesta",
+         "list": [
+           {
+             "name": "[First Victor] AthenaFloof",
+             "link": "https://youtu.be/GLhl4-fjPc0?si=Ksmsq8xuDrhIgydq"
+           }
+         ],
+         "progresses": [
+                 "none"
+             ]
+  },
     "Frost Spirit": {
     "name": "Frost Spirit",
     "ytcode": "RtTKP2WWcss",
@@ -1334,25 +1349,6 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/0T8eWz336yY"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-  "ErebuS": {
-    "name": "ErebuS",
-    "ytcode": "Xg8iDmV7Fw8",
-    "minimumPercent": 62,
-    "publisher": "Platnuu",
-    "list": [
-      {
-        "name": "[First Victor] Willow",
-        "link": "https://youtu.be/7fFicLK5Djc"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/M8aJok-hrJ0?si=Vz9X6txkRyiTOoYq"
       }
     ],
     "progresses": [
