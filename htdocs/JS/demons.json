@@ -74,6 +74,21 @@
             "none"
         ]
   },
+    "Renevant": {
+    "name": "Renevant",
+    "ytcode": "2Y8kBw8YxO8",
+    "minimumPercent": 50,
+    "publisher": "nikroplays",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/DSvj7cSNGQk"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
     "Crimson Planet": {
     "name": "Crimson Planet",
     "ytcode": "0MMi4w8wx0g",
@@ -102,21 +117,6 @@
       {
         "name": "[First Victor] Aubrey",
         "link": "https://youtu.be/BLcuecz9V0k?si=evyMy5pfnneEFI2x"
-      }
-    ],
-    "progresses": [
-            "none"
-        ]
-  },
-    "Renevant": {
-    "name": "Renevant",
-    "ytcode": "2Y8kBw8YxO8",
-    "minimumPercent": 50,
-    "publisher": "nikroplays",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/DSvj7cSNGQk"
       }
     ],
     "progresses": [
@@ -161,21 +161,6 @@
             "none"
         ]
   },
-    "Lucid Nightmares": {
-    "name": "Lucid Nightmares",
-    "ytcode": "QzjL7jDiqy0",
-    "minimumPercent": 50,
-    "publisher": "CairoX",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/_yZ9D5Z9zpE"
-      }
-    ],
-    "progresses": [
-            "none"
-        ]
-  },
     "RUST": {
     "name": "RUST",
     "ytcode": "qBRtigvEzZY",
@@ -196,6 +181,21 @@
             }
         ]
   },
+    "Lucid Nightmares": {
+    "name": "Lucid Nightmares",
+    "ytcode": "QzjL7jDiqy0",
+    "minimumPercent": 50,
+    "publisher": "CairoX",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/_yZ9D5Z9zpE"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
     "Shardscapes": {
     "name": "Shardscapes",
     "ytcode": "WzpWDjG-TvQ",
@@ -214,25 +214,6 @@
                 "link": "https://youtu.be/Q6wCn-x0Tds",
                 "hertz": "360"
             }
-    ]
-  },
-    "Ragnarok": {
-    "name": "Ragnarok",
-    "ytcode": "qEotZ7bSuVo",
-    "minimumPercent": 50,
-    "publisher": "Knobbelboy",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/Rzb3e8NlDuQ"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/E-w5ikrtvzc"
-      }
-    ],
-    "progresses": [
-      "none"
     ]
   },
     "Congregation": {
@@ -265,19 +246,19 @@
       "none"
     ]
   },
-    "The Rupture": {
-    "name": "The Rupture",
-    "ytcode": "3M9-ml0u5h8",
+    "Ragnarok": {
+    "name": "Ragnarok",
+    "ytcode": "qEotZ7bSuVo",
     "minimumPercent": 50,
-    "publisher": "Ka1ns",
+    "publisher": "Knobbelboy",
     "list": [
       {
         "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/l1HfsPjDa8I"
+        "link": "https://youtu.be/Rzb3e8NlDuQ"
       },
       {
-        "name": "KSol",
-        "link": "https://youtu.be/RVJfzSrt2OU"
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/E-w5ikrtvzc"
       }
     ],
     "progresses": [
@@ -297,6 +278,45 @@
     ],
     "progresses": [
       "none"
+    ]
+  },
+    "The Rupture": {
+    "name": "The Rupture",
+    "ytcode": "3M9-ml0u5h8",
+    "minimumPercent": 50,
+    "publisher": "Ka1ns",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/l1HfsPjDa8I"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/RVJfzSrt2OU"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Nhelv": {
+    "name": "Nhelv",
+    "ytcode": "WmqyZP4VP00",
+    "minimumPercent": 50,
+    "publisher": "SrGuillester",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/MK1-bqtFdiU"
+      }
+    ],
+    "progresses": [
+      {
+          "name": "KSol",
+          "percent": 52,
+          "link": "NA",
+         "hertz": "360"
+      }
     ]
   },
     "Bloodlust": {
@@ -344,6 +364,21 @@
       "none"
     ]
   },
+    "Haunted Corridor": {
+    "name": "Haunted Corridor",
+    "ytcode": "gYRSwaUSS7U",
+    "minimumPercent": 50,
+    "publisher": "VulgarisAerae",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "NA"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "CITRA": {
     "name": "CITRA",
     "ytcode": "6T8lC9oCfEY",
@@ -353,6 +388,21 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/h2XUtTK1YmU"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Sigma": {
+    "name": "Sigma",
+    "ytcode": "Z8MllwPaIpU",
+    "minimumPercent": 50,
+    "publisher": "MindCap",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/Z8MllwPaIpU"
       }
     ],
     "progresses": [
@@ -393,15 +443,19 @@
       "none"
     ]
   },
-    "Sigma": {
-    "name": "Sigma",
-    "ytcode": "Z8MllwPaIpU",
+    "Ouroboros": {
+    "name": "Ouroboros",
+    "ytcode": "j_er22OIBLk",
     "minimumPercent": 50,
-    "publisher": "MindCap",
+    "publisher": "Viprin",
     "list": [
       {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/Z8MllwPaIpU"
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/-sQuP0-vZR4"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/wQvy0K9sUYM"
       }
     ],
     "progresses": [
@@ -423,39 +477,15 @@
       "none"
     ]
   },
-    "Nhelv": {
-    "name": "Nhelv",
-    "ytcode": "WmqyZP4VP00",
+    "Plasma Pulse Finale": {
+    "name": "Plasma Pulse Finale",
+    "ytcode": "lvozFSpzBW0",
     "minimumPercent": 50,
-    "publisher": "SrGuillester",
+    "publisher": "xSmokes",
     "list": [
       {
         "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/MK1-bqtFdiU"
-      }
-    ],
-    "progresses": [
-      {
-          "name": "KSol",
-          "percent": 52,
-          "link": "NA",
-         "hertz": "360"
-      }
-    ]
-  },
-    "Ouroboros": {
-    "name": "Ouroboros",
-    "ytcode": "j_er22OIBLk",
-    "minimumPercent": 50,
-    "publisher": "Viprin",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/-sQuP0-vZR4"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/wQvy0K9sUYM"
+        "link": "https://youtu.be/gMbOXrr0_9I"
       }
     ],
     "progresses": [
@@ -475,21 +505,6 @@
       {
         "name": "Aubrey",
         "link": "https://youtu.be/lWkQ1hBDsP0"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Plasma Pulse Finale": {
-    "name": "Plasma Pulse Finale",
-    "ytcode": "lvozFSpzBW0",
-    "minimumPercent": 50,
-    "publisher": "xSmokes",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/gMbOXrr0_9I"
       }
     ],
     "progresses": [
@@ -564,25 +579,6 @@
       "none"
     ]
   },
-    "Wasureta": {
-    "name": "Wasureta",
-    "ytcode": "LDdnsp53PJs",
-    "minimumPercent": 50,
-    "publisher": "Helpegasus",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/tSlPSs08kz8"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/tCzh3JRVNbA"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
     "Spacial Rend": {
     "name": "Spacial Rend",
     "ytcode": "MjhdW9dQDeM",
@@ -606,6 +602,25 @@
       "none"
     ]
   },
+    "Wasureta": {
+    "name": "Wasureta",
+    "ytcode": "LDdnsp53PJs",
+    "minimumPercent": 50,
+    "publisher": "Helpegasus",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/tSlPSs08kz8"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/tCzh3JRVNbA"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Gamma": {
     "name": "Gamma",
     "ytcode": "-Bs1kIfew7c",
@@ -615,6 +630,21 @@
       {
         "name": "[First Victor] Aubrey",
         "link": "https://youtu.be/Io4Xqokox4Q"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Rage": {
+    "name": "Rage",
+    "ytcode": "Qp99t--lklc",
+    "minimumPercent": 50,
+    "publisher": "nSwish",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/V6oHB8iLvv4"
       }
     ],
     "progresses": [
@@ -634,6 +664,21 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/N8lzIw3xXY8"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Molten Gear": {
+    "name": "Molten Gear",
+    "ytcode": "B8omIUQ-NKY",
+    "minimumPercent": 50,
+    "publisher": "Knobbelboy",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/X3DSRRxufLY"
       }
     ],
     "progresses": [
@@ -668,45 +713,23 @@
       }
     ]
   },
-    "Molten Gear": {
-    "name": "Molten Gear",
-    "ytcode": "B8omIUQ-NKY",
+    "Yatagarasu": {
+    "name": "Yatagarasu",
+    "ytcode": "R4jl_RtysIY",
     "minimumPercent": 50,
-    "publisher": "Knobbelboy",
+    "publisher": "TrusTa",
     "list": [
       {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/X3DSRRxufLY"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Shmarley Ville": {
-    "name": "Shmarley Ville",
-    "ytcode": "6E_bQs3Buck",
-    "minimumPercent": 50,
-    "publisher": "Renn241",
-    "list": [
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/PsPeq4iPWbg"
+      },
       {
-        "name": "[First Victor] Chuck Danger",
-        "link": "NA"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "GONER": {
-    "name": "GONER",
-    "ytcode": "FNL0wINmb8A",
-    "minimumPercent": 50,
-    "publisher": "Nightning",
-    "list": [
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/pT3D2Kgtcrs"
+      },
       {
-        "name": "[First Victor] Sulky",
-        "link": "https://youtu.be/FNL0wINmb8A"
+        "name": "Willow",
+        "link": "https://youtu.be/-RH3tgqvi9g"
       }
     ],
     "progresses": [
@@ -736,44 +759,6 @@
       "none"
     ]
   },
-    "Yatagarasu": {
-    "name": "Yatagarasu",
-    "ytcode": "R4jl_RtysIY",
-    "minimumPercent": 50,
-    "publisher": "TrusTa",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/PsPeq4iPWbg"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/pT3D2Kgtcrs"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/-RH3tgqvi9g"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Rage": {
-    "name": "Rage",
-    "ytcode": "Qp99t--lklc",
-    "minimumPercent": 50,
-    "publisher": "nSwish",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/V6oHB8iLvv4"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
     "xo": {
     "name": "xo",
     "ytcode": "HVBSRcjbEiE",
@@ -787,26 +772,6 @@
     ],
     "progresses": [
       "none"
-    ]
-  },
-    "Generic Wave": {
-    "name": "Generic Wave",
-    "ytcode": "RL-c3PM4uhk",
-    "minimumPercent": 50,
-    "publisher": "Pennutoh",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/qqyTpBAff6g"
-      }
-    ],
-    "progresses": [
-      {
-                "name": "Jager",
-                "percent": 53,
-                "link": "NA",
-                "hertz": "360"
-      }
     ]
   },
     "Titan Complex": {
@@ -866,6 +831,21 @@
       "none"
     ]
   },
+   "Devil Vortex": {
+    "name": "Devil Vortex",
+    "ytcode": "HDfhpLEmsj0",
+    "minimumPercent": 50,
+    "publisher": "Rustam",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/EahwbhfoHls"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
    "Timor": {
     "name": "Timor",
     "ytcode": "y3zGKlz5nr4",
@@ -885,19 +865,24 @@
       "none"
     ]
   },
-   "Devil Vortex": {
-    "name": "Devil Vortex",
-    "ytcode": "HDfhpLEmsj0",
+    "Generic Wave": {
+    "name": "Generic Wave",
+    "ytcode": "RL-c3PM4uhk",
     "minimumPercent": 50,
-    "publisher": "Rustam",
+    "publisher": "Pennutoh",
     "list": [
       {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/EahwbhfoHls"
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/qqyTpBAff6g"
       }
     ],
     "progresses": [
-      "none"
+      {
+                "name": "Jager",
+                "percent": 53,
+                "link": "NA",
+                "hertz": "360"
+      }
     ]
   },
     "super probably level": {
@@ -964,101 +949,6 @@
       "none"
     ]
   },
-    "super probably level": {
-    "name": "super probably level",
-    "minimumPercent": 50,
-    "ytcode": "a5e1i17hye0",
-    "publisher": "Alkali",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/c-RTpxcV9KU"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "ZAPHKIEL": {
-    "name": "ZAPHKIEL",
-    "ytcode": "jSzVKqdM9bI",
-    "publisher": "Darwin",
-    "minimumPercent": 50,
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/HKC3BVIeXgg"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/oxrX7bB3hJw"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Omicron": {
-    "name": "Omicron",
-    "ytcode": "TFFzcV_7Qrs",
-    "publisher": "Team Proxima",
-    "minimumPercent": 50,
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/I8vdgYTFeeE"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/TFFzcV_7Qrs"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Visurient": {
-    "name": "Visurient",
-    "ytcode": "v9ozM28yBl8",
-    "minimumPercent": 50,
-    "publisher": "fitatfi",
-    "list": [
-      {
-        "name": "[Verifier] Aubrey",
-        "link": "https://youtu.be/v9ozM28yBl8"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Digital Descent": {
-    "name": "Digital Descent",
-    "ytcode": "yWa3tXuLYEo",
-    "minimumPercent": 50,
-    "publisher": "Viprin",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/63RhvFndDRA"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/PnypOp5qPl8"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/R4nmKRbc_gc"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/sooR7cM-6N0"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
     "Stalemate Redux": {
     "name": "Stalemate Redux",
     "minimumPercent": 50,
@@ -1105,40 +995,51 @@
       "none"
     ]
   },
-    "Quantum Processing": {
-    "name": "Quantum Processing",
-    "ytcode": "sx84tcnNgAI",
+    "Digital Descent": {
+    "name": "Digital Descent",
+    "ytcode": "yWa3tXuLYEo",
     "minimumPercent": 50,
-    "publisher": "Riot",
+    "publisher": "Viprin",
     "list": [
       {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/kwoxemuM2T0"
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/63RhvFndDRA"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/PnypOp5qPl8"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/R4nmKRbc_gc"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/sooR7cM-6N0"
       }
     ],
     "progresses": [
-      {
-                "name": "Willow",
-                "percent": 67,
-                "link": "NA",
-                "hertz": "360"
-            }
+      "none"
     ]
-    },
-      "Martin": {
-        "name": "Martin",
-        "ytcode": "90VPJ-hgyJ8",
-        "minimumPercent": 50,
-        "publisher": "Soulax",
-        "list": [
-          {
-            "name": "[First Victor] Jager",
-            "link": "https://youtu.be/ffI47krTpTs"
-          }
-        ],
-        "progresses": [
-          "none"
-        ]
+  },
+    "ZAPHKIEL": {
+    "name": "ZAPHKIEL",
+    "ytcode": "jSzVKqdM9bI",
+    "publisher": "Darwin",
+    "minimumPercent": 50,
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/HKC3BVIeXgg"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/oxrX7bB3hJw"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
   },
     "Killbot": {
     "name": "Killbot",
@@ -1186,21 +1087,6 @@
       "none"
     ]
   },
-    "Death": {
-    "name": "Death",
-    "ytcode": "L9N_2HzLW3c",
-    "minimumPercent": 50,
-    "publisher": "AleeXhey",
-    "list": [
-      {
-        "name": "[First Victor] Willow",
-        "link": "https://youtu.be/sHzRn6fQG8k"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
     "Astral Divinity": {
     "name": "Astral Divinity",
     "ytcode": "vQCUhU9q4mg",
@@ -1216,6 +1102,21 @@
       "none"
     ]
   },
+    "Death": {
+    "name": "Death",
+    "ytcode": "L9N_2HzLW3c",
+    "minimumPercent": 50,
+    "publisher": "AleeXhey",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/sHzRn6fQG8k"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Ethereal Artifice": {
     "name": "Ethereal Artifice",
     "ytcode": "nNIen4JDCiA",
@@ -1225,6 +1126,25 @@
       {
         "name": "[First Victor] Willow",
         "link": "https://youtu.be/JogFvc--grA"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Omicron": {
+    "name": "Omicron",
+    "ytcode": "TFFzcV_7Qrs",
+    "publisher": "Team Proxima",
+    "minimumPercent": 50,
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/I8vdgYTFeeE"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/TFFzcV_7Qrs"
       }
     ],
     "progresses": [
@@ -1261,29 +1181,70 @@
       "none"
     ]
   },
-    "Berserk": {
-    "name": "Berserk",
-    "ytcode": "T_mZ65F4eGM",
+    "Visurient": {
+    "name": "Visurient",
+    "ytcode": "v9ozM28yBl8",
     "minimumPercent": 50,
-    "publisher": "TrusTa",
+    "publisher": "fitatfi",
     "list": [
       {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/oqx26_Sz20c"
-      },
+        "name": "[Verifier] Aubrey",
+        "link": "https://youtu.be/v9ozM28yBl8"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Quantum Processing": {
+    "name": "Quantum Processing",
+    "ytcode": "sx84tcnNgAI",
+    "minimumPercent": 50,
+    "publisher": "Riot",
+    "list": [
       {
-        "name": "KSol",
-        "link": "N/A"
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/kwoxemuM2T0"
       }
     ],
     "progresses": [
       {
                 "name": "Willow",
-                "percent": 92,
-                "link": "https://youtu.be/9Hl3jPT2wpg",
+                "percent": 67,
+                "link": "NA",
                 "hertz": "360"
-      }
+            }
     ]
+    },
+    "Night Rider": {
+    "name": "Night Rider",
+    "ytcode": "v9ozM28yBl8",
+    "minimumPercent": 50,
+    "publisher": "fitatfi",
+    "list": [
+      {
+        "name": "[Verifier] SkellytonGuard",
+        "link": "https://youtu.be/v9ozM28yBl8"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+      "Martin": {
+        "name": "Martin",
+        "ytcode": "90VPJ-hgyJ8",
+        "minimumPercent": 50,
+        "publisher": "Soulax",
+        "list": [
+          {
+            "name": "[First Victor] Jager",
+            "link": "https://youtu.be/ffI47krTpTs"
+          }
+        ],
+        "progresses": [
+          "none"
+        ]
   },
     "Black Blizzard": {
     "name": "Black Blizzard",
@@ -1338,6 +1299,54 @@
     ],
     "progresses": [
       "none"
+    ]
+  },
+    "Berserk": {
+    "name": "Berserk",
+    "ytcode": "T_mZ65F4eGM",
+    "minimumPercent": 50,
+    "publisher": "TrusTa",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/oqx26_Sz20c"
+      },
+      {
+        "name": "KSol",
+        "link": "N/A"
+      }
+    ],
+    "progresses": [
+      {
+                "name": "Willow",
+                "percent": 92,
+                "link": "https://youtu.be/9Hl3jPT2wpg",
+                "hertz": "360"
+      }
+    ]
+  },
+    "Berserk": {
+    "name": "Berserk",
+    "ytcode": "T_mZ65F4eGM",
+    "minimumPercent": 50,
+    "publisher": "TrusTa",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/oqx26_Sz20c"
+      },
+      {
+        "name": "KSol",
+        "link": "N/A"
+      }
+    ],
+    "progresses": [
+      {
+                "name": "Willow",
+                "percent": 92,
+                "link": "https://youtu.be/9Hl3jPT2wpg",
+                "hertz": "360"
+      }
     ]
   },
     "Anoxysm": {
