@@ -1,4 +1,4 @@
-fetch("JS/platformerlist.json")
+fetch("JS/platformerlist.json", { cache: 'no-store' })
   .then(function (response) {
     return response.json();
   })

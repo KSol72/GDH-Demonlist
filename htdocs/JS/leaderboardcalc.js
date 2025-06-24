@@ -1,5 +1,5 @@
 var levelPos = []; //level pos is a 0-index array
-  fetch("JS/levellist.json")
+  fetch("JS/levellist.json", { cache: 'no-store' })
   .then(function (response) {
     return response.json();
   })
@@ -19,7 +19,7 @@ var levelPos = []; //level pos is a 0-index array
     console.log("A");
   })
   .then(function (dataThree){
-    fetch("JS/demons.json")
+    fetch("JS/demons.json", { cache: 'no-store' })
     .then(function (response){
       return response.json();
     })
@@ -36,7 +36,7 @@ var levelPos = []; //level pos is a 0-index array
       console.log("B");
     })
     .then(function (dataFour){
-      fetch("JS/leaderboard.json")
+      fetch("JS/leaderboard.json", { cache: 'no-store' })
       .then(function (response) {
         return response.json();
       })
@@ -279,7 +279,7 @@ function appendDataTwo(dataTwo) {
 }
 
 function display(thisuser){
-fetch("JS/leaderboard.json")
+fetch("JS/leaderboard.json", { cache: 'no-store' })
   .then(function (response) {
     return response.json();
   })

@@ -1,4 +1,4 @@
-fetch("JS/demons.json")
+fetch("JS/demons.json", { cache: 'no-store' })
   .then(function (response) {
     return response.json();
   })

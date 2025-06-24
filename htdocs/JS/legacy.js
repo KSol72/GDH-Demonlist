@@ -1,4 +1,4 @@
-fetch("JS/legacy.json")
+fetch("JS/legacy.json", { cache: 'no-store' })
   .then(function (response) {
     return response.json();
   })
