@@ -801,22 +801,6 @@
           }
        ]
     },
-  "Sulky": {
-   "nationality": "United_States",
-        "levels": [
-          "GONER"
-        ],
-        "progs": [
-            {
-                "name": "RUST",
-                "percent": 74
-            },
-            {
-                "name": "Shardscapes",
-                "percent": 63
-            }
-       ]
-    },
   "Radish": {
    "nationality": "Canada",
         "levels": [
