@@ -248,7 +248,7 @@
   },
     "Omega Interface": {
     "name": "Omega Interface",
-    "ytcode": "oyq_cLxcvt3A",
+    "ytcode": "yq_cLxcvt3A",
     "minimumPercent": 50,
     "publisher": "Platnuu",
     "list": [
@@ -1333,30 +1333,6 @@
     ],
     "progresses": [
       "none"
-    ]
-  },
-    "Berserk": {
-    "name": "Berserk",
-    "ytcode": "iXbyw_xXsEw",
-    "minimumPercent": 50,
-    "publisher": "TrusTa",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/oqx26_Sz20c"
-      },
-      {
-        "name": "KSol",
-        "link": "N/A"
-      }
-    ],
-    "progresses": [
-      {
-                "name": "Willow",
-                "percent": 92,
-                "link": "https://youtu.be/9Hl3jPT2wpg",
-                "hertz": "360"
-      }
     ]
   }
 }
