@@ -1,4 +1,19 @@
 {
+  "The Golden": {
+    "name": "The Golden",
+    "ytcode": "9THHBL1PzLM",
+    "minimumPercent": 50,
+    "publisher": "BoBoBoBoBoBoBo",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/9THHBL1PzLM"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+   },
    "Verdant Landscape": {
     "name": "Verdant Landscape",
     "ytcode": "xX_SkKej1WI",
@@ -505,6 +520,10 @@
       {
         "name": "Aubrey",
         "link": "https://youtu.be/lWkQ1hBDsP0"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/uKanrUF4mxU"
       }
     ],
     "progresses": [
@@ -630,6 +649,21 @@
       {
         "name": "[First Victor] Aubrey",
         "link": "https://youtu.be/Io4Xqokox4Q"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+      "GONER": {
+    "name": "GONER",
+    "ytcode": "wu4R3fVkst8",
+    "minimumPercent": 50,
+    "publisher": "Nightning",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/wu4R3fVkst8"
       }
     ],
     "progresses": [
@@ -1323,45 +1357,6 @@
                 "link": "https://youtu.be/9Hl3jPT2wpg",
                 "hertz": "360"
       }
-    ]
-  },
-    "Berserk": {
-    "name": "Berserk",
-    "ytcode": "T_mZ65F4eGM",
-    "minimumPercent": 50,
-    "publisher": "TrusTa",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/oqx26_Sz20c"
-      },
-      {
-        "name": "KSol",
-        "link": "N/A"
-      }
-    ],
-    "progresses": [
-      {
-                "name": "Willow",
-                "percent": 92,
-                "link": "https://youtu.be/9Hl3jPT2wpg",
-                "hertz": "360"
-      }
-    ]
-  },
-    "Anoxysm": {
-    "name": "Anoxysm",
-    "ytcode": "w_3zWtY5x8Q",
-    "minimumPercent": 50,
-    "publisher": "Lemons",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/0T8eWz336yY"
-      }
-    ],
-    "progresses": [
-      "none"
     ]
   }
 }
