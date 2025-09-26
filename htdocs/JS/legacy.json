@@ -1,4 +1,101 @@
 {
+    "FISH FISH GODMODE": {
+    "name": "FISH FISH GODMODE",
+    "ytcode": "kAPPRY2B1_I",
+    "minimumPercent": 50,
+    "publisher": "Whoiskeve",
+    "list": [
+      {
+        "name": "[First Victor] Jager",
+        "link": "https://youtu.be/Vu3h39b7VH4"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/9muYapTUAiE"
+      },
+      {
+        "name": "sombra",
+        "link": "https://youtu.be/VF6gb2dhUds"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/v63NL2LVVaI"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Reverie": {
+    "name": "Reverie",
+    "ytcode": "jCbvJtZJxoA",
+    "publisher": "Davalpha",
+    "list": [
+      {
+        "name": "[First Victor] YungBelll",
+        "link": "NA"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/u_Auow-8uWw"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/zo1y1iwtQyY"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/44596dO8riw"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Misty Mountains": {
+    "name": "Misty Mountains",
+    "ytcode": "fYgHIG1LcsI",
+    "publisher": "We4therMan",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/ln-I-WbTq5A"
+      },
+      {
+        "name": "YeahSlayed",
+        "link": "https://youtu.be/P-6RLqwKJs0"
+      },
+      {
+        "name": "Aubrey",
+        "link": "https://youtu.be/a9suz4tcvTw"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/1xrykeJQOew"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/ju5loEm3y8Y"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Virtual Collapse": {
+    "name": "Virtual Collapse",
+    "ytcode": "sCFtQaMwB50",
+    "publisher": "TeamUprising",
+    "list": [
+      {
+        "name": "[First Victor] SkellytonGuard",
+        "link": "https://youtu.be/dc5YmA3lDQM"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
       "Memories III": {
     "name": "Memories III",
     "ytcode": "XI4SkaFqS5c",

@@ -132,7 +132,7 @@
       "list": [
         {
           "name": "[First Victor] Ryoui",
-          "link": "https://youtu.be/opfxMxIii-k?si=9jOoHk8d9DCIVTu1"
+          "link": "https://youtu.be/opfxMxIii-k"
         },
         {
           "name": "Willow",
@@ -156,6 +156,10 @@
         {
           "name": "Willow",
           "link": "https://youtu.be/w1keJrIE6SU"
+        },
+        {
+          "name": "Jager",
+          "link": "https://youtu.be/_950JVLLa94"
         }
       ],
       "progresses": [
@@ -376,6 +380,21 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/LqqjvQAJjn8"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+  "MadMansion": {
+    "name": "MadMansion",
+    "ytcode": "CwgXR_sgJdY",
+    "minimumPercent": 50,
+    "publisher": "GunnerBones",
+    "list": [
+      {
+        "name": "[First Victor] Jager",
+        "link": "https://youtu.be/4WgLrZWDq2g"
       }
     ],
     "progresses": [
@@ -623,6 +642,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/_QzwTZbzwRI"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/SNfZi_9ETY4"
       }
     ],
     "progresses": [
@@ -707,6 +730,21 @@
       {
         "name": "Halledo",
         "link": "https://youtu.be/za0HSQptPzs"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+    },
+    "Gravity": {
+    "name": "Gravity",
+    "ytcode": "NYsFiWZaS4k",
+    "minimumPercent": 50,
+    "publisher": "KazaGD",
+    "list": [
+      {
+        "name": "[First Victor] Jager",
+        "link": "https://youtu.be/oIZOQt8Yz28"
       }
     ],
     "progresses": [
@@ -1593,6 +1631,21 @@
     "progresses": [
       "none"
     ]
+    },
+    "Acrozis": {
+    "name": "Acrozis",
+    "ytcode": "NuAsKoysOwg",
+    "minimumPercent": 50,
+    "publisher": "ZeroSR",
+    "list": [
+      {
+        "name": "[First Victor] Jager",
+        "link": "https://youtu.be/qlV8hEczmB4"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
   },
     "Polish Alphabet": {
     "name": "Polish Alphabet",
@@ -1704,6 +1757,20 @@
       "none"
     ]
   },
+        "SHINE": {
+      "name": "SHINE",
+      "ytcode": "VpV30L5etdA",
+      "publisher": "asmallsock",
+      "list": [
+        {
+          "name": "[First Victor] Jager",
+          "link": "https://youtu.be/b34KgtcoQLY"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
       "Aksion": {
       "name": "Aksion",
       "ytcode": "VpV30L5etdA",
@@ -2412,102 +2479,5 @@
       "progresses": [
         "none"
       ]
-    },
-    "FISH FISH GODMODE": {
-    "name": "FISH FISH GODMODE",
-    "ytcode": "kAPPRY2B1_I",
-    "minimumPercent": 50,
-    "publisher": "Whoiskeve",
-    "list": [
-      {
-        "name": "[First Victor] Jager",
-        "link": "https://youtu.be/Vu3h39b7VH4"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/9muYapTUAiE"
-      },
-      {
-        "name": "sombra",
-        "link": "https://youtu.be/VF6gb2dhUds"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/v63NL2LVVaI"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Reverie": {
-    "name": "Reverie",
-    "ytcode": "jCbvJtZJxoA",
-    "publisher": "Davalpha",
-    "list": [
-      {
-        "name": "[First Victor] YungBelll",
-        "link": "NA"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/u_Auow-8uWw"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/zo1y1iwtQyY"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/44596dO8riw"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Misty Mountains": {
-    "name": "Misty Mountains",
-    "ytcode": "fYgHIG1LcsI",
-    "publisher": "We4therMan",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/ln-I-WbTq5A"
-      },
-      {
-        "name": "YeahSlayed",
-        "link": "https://youtu.be/P-6RLqwKJs0"
-      },
-      {
-        "name": "Aubrey",
-        "link": "https://youtu.be/a9suz4tcvTw"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/1xrykeJQOew"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/ju5loEm3y8Y"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Virtual Collapse": {
-    "name": "Virtual Collapse",
-    "ytcode": "sCFtQaMwB50",
-    "publisher": "TeamUprising",
-    "list": [
-      {
-        "name": "[First Victor] SkellytonGuard",
-        "link": "https://youtu.be/dc5YmA3lDQM"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  }
+    }
 }
