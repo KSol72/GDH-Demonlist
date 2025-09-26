@@ -709,8 +709,8 @@
       "none"
     ]
   },
-    "Aftermath": {
-    "name": "Aftermath",
+    "aftermath": {
+    "name": "aftermath",
     "ytcode": "Ch3KTXl9brA",
     "minimumPercent": 50,
     "publisher": "Exenity",
@@ -1634,9 +1634,9 @@
     },
     "Acrozis": {
     "name": "Acrozis",
-    "ytcode": "NuAsKoysOwg",
+    "ytcode": "tPpCTcDT8dw",
     "minimumPercent": 50,
-    "publisher": "ZeroSR",
+    "publisher": "RenedI",
     "list": [
       {
         "name": "[First Victor] Jager",
@@ -1757,9 +1757,9 @@
       "none"
     ]
   },
-        "SHINE": {
+      "SHINE": {
       "name": "SHINE",
-      "ytcode": "VpV30L5etdA",
+      "ytcode": "m54nN3HGClc",
       "publisher": "asmallsock",
       "list": [
         {
