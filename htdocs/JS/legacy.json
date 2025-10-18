@@ -1,4 +1,48 @@
 {
+    "Azurite": {
+    "name": "Azurite",
+    "ytcode": "kVd7sO3xG5A",
+    "publisher": "Sillow",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/uRKK1e3VoAs"
+      },
+      {
+        "name": "YungBelll",
+        "link": "https://youtu.be/pY5Mn3F2iLA"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/OkO3F6qFg_c?si=wJK3l_fPLzBo8Mk8"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+      "Paralysis": {
+      "name": "Paralysis",
+      "ytcode": "MRn2TA5RruY",
+      "publisher": "thazm",
+      "list": [
+        {
+          "name": "[First Victor] Aubrey",
+          "link": "https://youtu.be/OtKSekfBQbE?si=ljRY-Uv0EIYS1DBg"
+        },
+        {
+          "name": "KSol",
+          "link": "NA"
+        },
+        {
+          "name": "Willow",
+          "link": "https://youtu.be/mUml01bukxE?t=115"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
     "FISH FISH GODMODE": {
     "name": "FISH FISH GODMODE",
     "ytcode": "kAPPRY2B1_I",

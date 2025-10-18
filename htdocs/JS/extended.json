@@ -1,4 +1,46 @@
   {
+    "Glowy": {
+    "name": "Glowy",
+    "ytcode": "ckiw_jA9VN8",
+    "minimumPercent": 50,
+    "publisher": "Rob Buck",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/q694ZP3ZOrk"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Auditory Breaker": {
+    "name": "Auditory Breaker",
+    "ytcode": "fr5rxhOUn6I",
+    "minimumPercent": 50,
+    "publisher": "Lazerblitz",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/mq44i0k1QGA"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/7ry7qL_oLRw"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/ILJaKh5Ujqs"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/vHK2g9CFeaQ"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
         "Berserk": {
     "name": "Berserk",
     "ytcode": "T_mZ65F4eGM",
@@ -2443,49 +2485,5 @@
     "progresses": [
       "none"
     ]
-  },
-    "Azurite": {
-    "name": "Azurite",
-    "ytcode": "kVd7sO3xG5A",
-    "publisher": "Sillow",
-    "list": [
-      {
-        "name": "[First Victor] Willow",
-        "link": "https://youtu.be/uRKK1e3VoAs"
-      },
-      {
-        "name": "YungBelll",
-        "link": "https://youtu.be/pY5Mn3F2iLA"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/OkO3F6qFg_c?si=wJK3l_fPLzBo8Mk8"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-      "Paralysis": {
-      "name": "Paralysis",
-      "ytcode": "MRn2TA5RruY",
-      "publisher": "thazm",
-      "list": [
-        {
-          "name": "[First Victor] Aubrey",
-          "link": "https://youtu.be/OtKSekfBQbE?si=ljRY-Uv0EIYS1DBg"
-        },
-        {
-          "name": "KSol",
-          "link": "NA"
-        },
-        {
-          "name": "Willow",
-          "link": "https://youtu.be/mUml01bukxE?t=115"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
-    }
+  }
 }

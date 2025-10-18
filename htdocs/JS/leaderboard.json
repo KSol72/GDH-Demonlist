@@ -87,7 +87,11 @@
           "The Golden",
           "Broken Signal",
           "Arctic Lights",
-          "GONER"
+          "GONER",
+          "Zodiac",
+          "Glowy",
+          "Auditory Breaker",
+          "Promethean"
         ],
         "progs": [
           "none"
@@ -236,7 +240,8 @@
           "Berserk", 
           "The Rupture",
           "Neferrous",
-          "Interstellar Entropy"
+          "Interstellar Entropy",
+          "Zodiac"
         ],
         "progs": [
             {
@@ -315,7 +320,6 @@
           "SUBVERSIVE",
           "Breakout",
           "Broken Signal",
-          "Niflhel",
           "Polish Alphabet",
           "Anya III",
           "Torgue",
@@ -448,7 +452,8 @@
           "Codependence (2-Player)",
           "Allegiance",
           "AcropoliX",
-          "Sailor of the Sun"
+          "Sailor of the Sun",
+          "Ragnarok"
         ],
         "progs": [
           {

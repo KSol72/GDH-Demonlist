@@ -74,6 +74,21 @@
             "none"
         ]
   },
+    "Promethean": {
+    "name": "Promethean",
+    "ytcode": "ACFl38AKA-Y",
+    "minimumPercent": 50,
+    "publisher": "EndLevel",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/Aq_9ZT1Df2s"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
     "Cold Sweat": {
     "name": "Cold Sweat",
     "ytcode": "9fjSk1xh-SU",
@@ -274,6 +289,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/E-w5ikrtvzc"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/1aAyB1KbgLg"
       }
     ],
     "progresses": [
@@ -1314,29 +1333,6 @@
                 "link": "NA",
                 "hertz": "360"
             }
-    ]
-  },
-    "Auditory Breaker": {
-    "name": "Auditory Breaker",
-    "ytcode": "fr5rxhOUn6I",
-    "minimumPercent": 50,
-    "publisher": "Lazerblitz",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/mq44i0k1QGA"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/7ry7qL_oLRw"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/ILJaKh5Ujqs"
-      }
-    ],
-    "progresses": [
-      "none"
     ]
   }
 }
