@@ -1,4 +1,30 @@
 {
+  "TANTRUM": {
+    "name": "TANTRUM",
+    "ytcode": "qpJeULfkH1k",
+    "publisher": "DanZmeN",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/OxqoGI7f1QA"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/arOT9WWkV8Q"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/fPv-XQy45tg"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/jF5WlpCk-vQ"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
       "Brimtanic Paradise": {
     "name": "Brimtanic Paradise",
     "ytcode": "Pyq4PsNcRqc",

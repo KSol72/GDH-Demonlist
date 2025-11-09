@@ -1,4 +1,24 @@
   {
+    "Quantum Processing": {
+    "name": "Quantum Processing",
+    "ytcode": "nH91xmgadQw",
+    "minimumPercent": 50,
+    "publisher": "Riot",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/kwoxemuM2T0"
+      }
+    ],
+    "progresses": [
+      {
+                "name": "Willow",
+                "percent": 67,
+                "link": "NA",
+                "hertz": "360"
+            }
+    ]
+  },
         "Night Rider": {
     "name": "Night Rider",
     "ytcode": "kipYJsuetiA",
@@ -2134,20 +2154,6 @@
     "progresses": [
       "none"
     ]
-  },
-      "Neferrous": {
-      "name": "Neferrous",
-      "ytcode": "rEp3Y8xiv18",
-      "publisher": "Zylenox",
-      "list": [
-        {
-          "name": "[V] KSol",
-          "link": "https://youtu.be/rEp3Y8xiv18"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
     },
       "Empanadas Fugaces": {
       "name": "Empanadas Fugaces",
@@ -2442,32 +2448,6 @@
       {
         "name": "[First Victor] Willow",
         "link": "NA"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "TANTRUM": {
-    "name": "TANTRUM",
-    "ytcode": "qpJeULfkH1k",
-    "publisher": "DanZmeN",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/OxqoGI7f1QA"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/arOT9WWkV8Q"
-      },
-      {
-        "name": "Jager",
-        "link": "https://youtu.be/fPv-XQy45tg"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/jF5WlpCk-vQ"
       }
     ],
     "progresses": [

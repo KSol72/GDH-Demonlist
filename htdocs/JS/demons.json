@@ -44,6 +44,21 @@
                  "none"
              ]
   },
+        "Trueffet": {
+         "name": "Trueffet",
+         "ytcode": "N3yBPoh5_Ts",
+         "minimumPercent": 50,
+         "publisher": "SyQual",
+         "list": [
+           {
+             "name": "[First Victor] Jager",
+             "link": "https://youtu.be/q6hWia3gEYI"
+           }
+         ],
+         "progresses": [
+                 "none"
+             ]
+  },
         "Kenos": {
          "name": "Kenos",
          "ytcode": "GLhl4-fjPc0",
@@ -1301,25 +1316,5 @@
     "progresses": [
       "none"
     ]
-  },
-    "Quantum Processing": {
-    "name": "Quantum Processing",
-    "ytcode": "nH91xmgadQw",
-    "minimumPercent": 50,
-    "publisher": "Riot",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/kwoxemuM2T0"
-      }
-    ],
-    "progresses": [
-      {
-                "name": "Willow",
-                "percent": 67,
-                "link": "NA",
-                "hertz": "360"
-            }
-    ]
-    }
+  }
 }
