@@ -1,4 +1,86 @@
 {
+      "Brimtanic Paradise": {
+    "name": "Brimtanic Paradise",
+    "ytcode": "Pyq4PsNcRqc",
+    "publisher": "TBTeam",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/qxG0d4vXkeU"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/Pyq4PsNcRqc"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/4ndRUHjX61Q"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/HvQ8pDOUs0g?si=DxycYV7R9P4o9Iju"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Sweater Weather": {
+      "name": "Sweater Weather",
+      "ytcode": "MiXGfi7piKM",
+      "publisher": "Velvt",
+      "list": [
+        {
+          "name": "[First Victor] Jager",
+          "link": "https://youtu.be/kOqHGYMvt1k?si=usu9zpHtFJ5PIWKD"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
+    "Cataclysm": {
+    "name": "Cataclysm",
+    "ytcode": "34KiFCQOyfI",
+    "publisher": "Ggb0y",
+    "list": [
+      {
+        "name": "[First Victor] YeahSlayed",
+        "link": "NA"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/GgQ6U2I4j8Q"
+      },
+      {
+        "name": "Aubrey",
+        "link": "https://youtu.be/77k3NNZCB4g"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/cPbL_gBdkik"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/cF3wyDCRhGU"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/5hNaTn-G008"
+      },
+      {
+        "name": "YungBelll",
+        "link": "NA"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/w19LtDeb5WA"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Azurite": {
     "name": "Azurite",
     "ytcode": "kVd7sO3xG5A",
@@ -15,6 +97,10 @@
       {
         "name": "Halledo",
         "link": "https://youtu.be/OkO3F6qFg_c?si=wJK3l_fPLzBo8Mk8"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/fAkWa43RIXc"
       }
     ],
     "progresses": [

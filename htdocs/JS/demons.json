@@ -22,7 +22,7 @@
     "list": [
       {
         "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/xX_SkKej1WI?si=jLh6wkJtjYE5FVTi"
+        "link": "https://youtu.be/xX_SkKej1WI"
       }
     ],
     "progresses": [
@@ -52,7 +52,26 @@
          "list": [
            {
              "name": "[First Victor] AthenaFloof",
-             "link": "https://youtu.be/GLhl4-fjPc0?si=Ksmsq8xuDrhIgydq"
+             "link": "https://youtu.be/GLhl4-fjPc0"
+           }
+         ],
+         "progresses": [
+                 "none"
+             ]
+  },
+         "Zodiac": {
+         "name": "Zodiac",
+         "ytcode": "UC0U2Jh_qtQ",
+         "minimumPercent": 50,
+         "publisher": "BIANOX",
+         "list": [
+           {
+             "name": "[First Victor] KSol",
+             "link": "https://youtu.be/UC0U2Jh_qtQ"
+           },
+           {
+             "name": "AthenaFloof",
+             "link": "https://youtu.be/gH6N58V-Jo4"
            }
          ],
          "progresses": [
@@ -104,6 +123,21 @@
             "none"
         ]
   },
+    "Thinking Space": {
+    "name": "Thinking Space",
+    "ytcode": "zprPPS3SBQc",
+    "minimumPercent": 50,
+    "publisher": "Atomic",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/zprPPS3SBQc"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
     "Renevant": {
     "name": "Renevant",
     "ytcode": "-NuarlJSAV4",
@@ -113,25 +147,6 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/DSvj7cSNGQk"
-      }
-    ],
-    "progresses": [
-            "none"
-        ]
-  },
-    "Crimson Planet": {
-    "name": "Crimson Planet",
-    "ytcode": "iCN0yUNYjdE",
-    "minimumPercent": 50,
-    "publisher": "TrueOmega",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/K8ReiZZN0RI"
-      },
-      {
-        "name": "Aubrey",
-        "link": "https://youtu.be/LAhEtn5RgbE"
       }
     ],
     "progresses": [
@@ -166,6 +181,25 @@
       {
         "name": "Aubrey",
         "link": "https://youtu.be/2i6ynoJXx9Q?si=olujzTp2fLO0Juar"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
+    "Crimson Planet": {
+    "name": "Crimson Planet",
+    "ytcode": "iCN0yUNYjdE",
+    "minimumPercent": 50,
+    "publisher": "TrueOmega",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/K8ReiZZN0RI"
+      },
+      {
+        "name": "Aubrey",
+        "link": "https://youtu.be/LAhEtn5RgbE"
       }
     ],
     "progresses": [
@@ -220,6 +254,21 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/_yZ9D5Z9zpE"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
+    "Launchpad Labyrinth": {
+    "name": "Launchpad Labyrinth",
+    "ytcode": "3D7IvjAVnlM",
+    "minimumPercent": 50,
+    "publisher": "Moffe",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/b8iZlGrp0Fw"
       }
     ],
     "progresses": [
@@ -1272,67 +1321,5 @@
                 "hertz": "360"
             }
     ]
-    },
-    "Night Rider": {
-    "name": "Night Rider",
-    "ytcode": "kipYJsuetiA",
-    "minimumPercent": 50,
-    "publisher": "LmAnubis",
-    "list": [
-      {
-        "name": "[First Victor] SkellytonGuard",
-        "link": "https://youtu.be/Yuvng3uFzic"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-      "Martin": {
-        "name": "Martin",
-        "ytcode": "90VPJ-hgyJ8",
-        "minimumPercent": 50,
-        "publisher": "Soulax",
-        "list": [
-          {
-            "name": "[First Victor] Jager",
-            "link": "https://youtu.be/ffI47krTpTs"
-          }
-        ],
-        "progresses": [
-          "none"
-        ]
-  },
-    "Black Blizzard": {
-    "name": "Black Blizzard",
-    "ytcode": "1v8Bnyy01v4",
-    "minimumPercent": 50,
-    "publisher": "KrmaL",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/3wU314AaMS4"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/jc8ZgwV0OFs"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/vXwluwvwivY"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/RT0OiEmh7Ro"
-      }
-    ],
-    "progresses": [
-      {
-                "name": "YeahSlayed",
-                "percent": 65,
-                "link": "NA",
-                "hertz": "360"
-            }
-    ]
-  }
+    }
 }

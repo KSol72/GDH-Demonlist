@@ -1,4 +1,66 @@
   {
+        "Night Rider": {
+    "name": "Night Rider",
+    "ytcode": "kipYJsuetiA",
+    "minimumPercent": 50,
+    "publisher": "LmAnubis",
+    "list": [
+      {
+        "name": "[First Victor] SkellytonGuard",
+        "link": "https://youtu.be/Yuvng3uFzic"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+      "Martin": {
+        "name": "Martin",
+        "ytcode": "90VPJ-hgyJ8",
+        "minimumPercent": 50,
+        "publisher": "Soulax",
+        "list": [
+          {
+            "name": "[First Victor] Jager",
+            "link": "https://youtu.be/ffI47krTpTs"
+          }
+        ],
+        "progresses": [
+          "none"
+        ]
+  },
+    "Black Blizzard": {
+    "name": "Black Blizzard",
+    "ytcode": "1v8Bnyy01v4",
+    "minimumPercent": 50,
+    "publisher": "KrmaL",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/3wU314AaMS4"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/jc8ZgwV0OFs"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/vXwluwvwivY"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/RT0OiEmh7Ro"
+      }
+    ],
+    "progresses": [
+      {
+                "name": "YeahSlayed",
+                "percent": 65,
+                "link": "NA",
+                "hertz": "360"
+            }
+    ]
+  },
     "Glowy": {
     "name": "Glowy",
     "ytcode": "ckiw_jA9VN8",
@@ -841,6 +903,10 @@
       {
         "name": "Jager",
         "link": "https://youtu.be/ygO_kzRQnu8?si=1AT1lRdkGeNWGrHT"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/b8iZlGrp0Fw"
       }
     ],
     "progresses": [
@@ -1867,6 +1933,10 @@
       {
         "name": "Halledo",
         "link": "https://youtu.be/KbVOzxDj1XA"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/3C3SVmtvkFk"
       }
     ],
     "progresses": [
@@ -2398,88 +2468,6 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/jF5WlpCk-vQ"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Brimtanic Paradise": {
-    "name": "Brimtanic Paradise",
-    "ytcode": "Pyq4PsNcRqc",
-    "publisher": "TBTeam",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/qxG0d4vXkeU"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/Pyq4PsNcRqc"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/4ndRUHjX61Q"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/HvQ8pDOUs0g?si=DxycYV7R9P4o9Iju"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Sweater Weather": {
-      "name": "Sweater Weather",
-      "ytcode": "MiXGfi7piKM",
-      "publisher": "Velvt",
-      "list": [
-        {
-          "name": "[First Victor] Jager",
-          "link": "https://youtu.be/kOqHGYMvt1k?si=usu9zpHtFJ5PIWKD"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
-    },
-    "Cataclysm": {
-    "name": "Cataclysm",
-    "ytcode": "34KiFCQOyfI",
-    "publisher": "Ggb0y",
-    "list": [
-      {
-        "name": "[First Victor] YeahSlayed",
-        "link": "NA"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/GgQ6U2I4j8Q"
-      },
-      {
-        "name": "Aubrey",
-        "link": "https://youtu.be/77k3NNZCB4g"
-      },
-      {
-        "name": "Jager",
-        "link": "https://youtu.be/cPbL_gBdkik"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/cF3wyDCRhGU"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/5hNaTn-G008"
-      },
-      {
-        "name": "YungBelll",
-        "link": "NA"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/w19LtDeb5WA"
       }
     ],
     "progresses": [
