@@ -93,6 +93,21 @@
                  "none"
              ]
   },
+      "Cold Sweat": {
+    "name": "Cold Sweat",
+    "ytcode": "9fjSk1xh-SU",
+    "minimumPercent": 50,
+    "publisher": "para",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/W0O0cbWVEfw"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
     "Frost Spirit": {
     "name": "Frost Spirit",
     "ytcode": "5mMlYjbXLU4",
@@ -117,21 +132,6 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/Aq_9ZT1Df2s"
-      }
-    ],
-    "progresses": [
-            "none"
-        ]
-  },
-    "Cold Sweat": {
-    "name": "Cold Sweat",
-    "ytcode": "9fjSk1xh-SU",
-    "minimumPercent": 50,
-    "publisher": "para",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/W0O0cbWVEfw"
       }
     ],
     "progresses": [
