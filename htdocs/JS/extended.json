@@ -345,7 +345,7 @@
   },
     "Audio Expulsion": {
     "name": "Audio Expulsion",
-    "ytcode": "xH-cjcUJXnE",
+    "ytcode": "afUtaB3IXgc",
     "minimumPercent": 50,
     "publisher": "Goodsmile",
     "list": [
@@ -2422,73 +2422,6 @@
       },
       {
         "name": "YungBelll",
-        "link": "NA"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Forbidden Isle": {
-    "name": "Forbidden Isle",
-    "ytcode": "rTN_i4VEbX0",
-    "publisher": "Sillow",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/iFEfKFAhk5A"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/ssSOJxt1zA8"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/YPXPqIcsYig"
-      },
-      {
-        "name": "YungBelll",
-        "link": "NA"
-      }
-
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Anya III": {
-    "name": "Anya III",
-    "ytcode": "65ELCV_b_bo",
-    "publisher": "Anya21",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/65ELCV_b_bo"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/mUml01bukxE?t=1925"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "GLISTEN": {
-    "name": "GLISTEN",
-    "ytcode": "KHX2syBVVTw",
-    "publisher": "Squizaaard",
-    "list": [
-      {
-        "name": "[First Victor] Ryoui",
-        "link": "https://www.youtube.com/watch?v=Qex3DaQQMi8"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/iwphLa2SLYk"
-      },
-      {
-        "name": "Sombra",
         "link": "NA"
       }
     ],
