@@ -718,6 +718,21 @@
       "none"
     ]
   },
+   "Idols": {
+    "name": "Idols",
+    "ytcode": "EsKfImKvaFc",
+    "minimumPercent": 50,
+    "publisher": "Zafkiel7",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "N/A"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+ },
    "moment": {
     "name": "moment",
     "ytcode": "BKmXsl3M3qg",
@@ -727,10 +742,6 @@
       {
         "name": "[First Victor] Willow",
         "link": "https://youtu.be/tmCo6EJ_z8I"
-      },
-      {
-        "name": "Spaace",
-        "link": "https://youtu.be/DukwSzljavc"
       }
     ],
     "progresses": [
@@ -1163,6 +1174,21 @@
       {
         "name": "Skellyton Guard",
         "link": "https://www.twitch.tv/videos/1508926847"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Audio Extraction": {
+    "name": "Audio Extraction",
+    "ytcode": "vnM-l6UeEFA",
+    "minimumPercent": 50,
+    "publisher": "GoodSmile",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "N/A"
       }
     ],
     "progresses": [
@@ -1760,6 +1786,21 @@
       "none"
     ]
   },
+    "CYCLONE": {
+    "name": "CYCLONE",
+    "ytcode": "huR5lP7LIpo",
+    "minimumPercent": 50,
+    "publisher": "BIANOX",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "N/A"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+    },
     "Faith": {
     "name": "Faith",
     "ytcode": "NuAsKoysOwg",
