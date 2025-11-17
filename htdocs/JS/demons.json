@@ -1,4 +1,19 @@
 {
+    "Tartarus": {
+    "name": "Tartarus",
+    "ytcode": "oTJgv4k31RA",
+    "minimumPercent": 50,
+    "publisher": "ItzDolphy",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/oTJgv4k31RA"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+   },
   "The Golden": {
     "name": "The Golden",
     "ytcode": "9THHBL1PzLM",
@@ -1296,21 +1311,6 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/jxEiNjFSy_E"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Visurient": {
-    "name": "Visurient",
-    "ytcode": "v9ozM28yBl8",
-    "minimumPercent": 50,
-    "publisher": "fitatfi",
-    "list": [
-      {
-        "name": "[Verifier] Aubrey",
-        "link": "https://youtu.be/v9ozM28yBl8"
       }
     ],
     "progresses": [
