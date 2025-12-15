@@ -1,4 +1,19 @@
   {
+        "distraught": {
+    "name": "distraught",
+    "ytcode": "1CzGFhV3TAU",
+    "minimumPercent": 50,
+    "publisher": "alkali",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/jxEiNjFSy_E"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
       "Visurient": {
     "name": "Visurient",
     "ytcode": "v9ozM28yBl8",
@@ -2402,35 +2417,5 @@
       "progresses": [
         "none"
       ]
-    },
-    "The Flawless": {
-    "name": "The Flawless",
-    "ytcode": "oVxTs-rbih8",
-    "publisher": "iIiRyaniIi",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/AZ0iHXAMOHI"
-      },
-      {
-        "name": "Aubrey",
-        "link": "https://youtu.be/OGMDsHwHjc4"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/od6biC0UZcU"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/3Sc4MuiJZYQ"
-      },
-      {
-        "name": "YungBelll",
-        "link": "NA"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  }
+    }
 }

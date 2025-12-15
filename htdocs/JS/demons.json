@@ -112,6 +112,21 @@
                  "none"
              ]
   },
+        "Crackhead Circles": {
+    "name": "Crackhead Circles",
+    "ytcode": "Zrt3EB9m7us",
+    "minimumPercent": 50,
+    "publisher": "AlrexX",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/Lp9KTW-l3LQ"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+  },
       "Cold Sweat": {
     "name": "Cold Sweat",
     "ytcode": "9fjSk1xh-SU",
@@ -1300,21 +1315,6 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/Q7bBQDzUo8U"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "distraught": {
-    "name": "distraught",
-    "ytcode": "1CzGFhV3TAU",
-    "minimumPercent": 50,
-    "publisher": "alkali",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/jxEiNjFSy_E"
       }
     ],
     "progresses": [
