@@ -1,4 +1,22 @@
 {
+      "Corrosion": {
+      "name": "Corrosion",
+      "ytcode": "yc4gYY1vJgw",
+      "publisher": "Killa",
+      "list": [
+        {
+          "name": "[First Victor] Willow",
+          "link": "https://www.youtube.com/watch?v=K96biUPhwDQ"
+        },
+        {
+          "name": "KSol",
+          "link": "https://youtu.be/aqHAagw6zM0"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
       "The Flawless": {
     "name": "The Flawless",
     "ytcode": "oVxTs-rbih8",

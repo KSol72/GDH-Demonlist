@@ -575,6 +575,21 @@
       "none"
     ]
   },
+      "Cicatrize": {
+    "name": "Cicatrize",
+    "ytcode": "wjQ0l9CwX-I",
+    "minimumPercent": 50,
+    "publisher": "Wintter",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/0Gx7L6TXiw4"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Ouroboros": {
     "name": "Ouroboros",
     "ytcode": "hLTnewDC2Hs",
@@ -1300,21 +1315,6 @@
       {
         "name": "KSol",
         "link": "https://youtu.be/TFFzcV_7Qrs"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Bass Cave": {
-    "name": "Bass Cave",
-    "ytcode": "Q7bBQDzUo8U",
-    "minimumPercent": 50,
-    "publisher": "Bloodshot",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/Q7bBQDzUo8U"
       }
     ],
     "progresses": [

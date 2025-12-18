@@ -1,4 +1,19 @@
   {
+        "Bass Cave": {
+    "name": "Bass Cave",
+    "ytcode": "Q7bBQDzUo8U",
+    "minimumPercent": 50,
+    "publisher": "Bloodshot",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/Q7bBQDzUo8U"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
         "distraught": {
     "name": "distraught",
     "ytcode": "1CzGFhV3TAU",
@@ -2398,24 +2413,6 @@
         {
           "name": "Willow",
           "link": "https://youtu.be/dD3zyXwgiNI"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
-    },
-    "Corrosion": {
-      "name": "Corrosion",
-      "ytcode": "yc4gYY1vJgw",
-      "publisher": "Killa",
-      "list": [
-        {
-          "name": "[First Victor] Willow",
-          "link": "https://www.youtube.com/watch?v=K96biUPhwDQ"
-        },
-        {
-          "name": "KSol",
-          "link": "https://youtu.be/aqHAagw6zM0"
         }
       ],
       "progresses": [
