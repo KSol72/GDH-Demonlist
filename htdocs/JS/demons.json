@@ -1104,6 +1104,21 @@
       "none"
     ]
   },
+      "Catalyze": {
+    "name": "Catalyze",
+    "minimumPercent": 50,
+    "ytcode": "7SnyWJPPHck",
+    "publisher": "ZephiroX",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/0HIJ6pz2LY8"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Friday Vortex": {
     "name": "Friday Vortex",
     "minimumPercent": 50,
@@ -1296,25 +1311,6 @@
       {
         "name": "[First Victor] Willow",
         "link": "https://youtu.be/JogFvc--grA"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Omicron": {
-    "name": "Omicron",
-    "ytcode": "TFFzcV_7Qrs",
-    "publisher": "Team Proxima",
-    "minimumPercent": 50,
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/I8vdgYTFeeE"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/TFFzcV_7Qrs"
       }
     ],
     "progresses": [

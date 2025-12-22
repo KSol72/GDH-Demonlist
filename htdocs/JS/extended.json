@@ -1,4 +1,23 @@
   {
+        "Omicron": {
+    "name": "Omicron",
+    "ytcode": "TFFzcV_7Qrs",
+    "publisher": "Team Proxima",
+    "minimumPercent": 50,
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/I8vdgYTFeeE"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/TFFzcV_7Qrs"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
         "Bass Cave": {
     "name": "Bass Cave",
     "ytcode": "Q7bBQDzUo8U",
@@ -2391,28 +2410,6 @@
         {
           "name": "Willow",
           "link": "https://youtu.be/iVHCNKP6FFk"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
-    },
-      "Clarity": {
-      "name": "Clarity",
-      "ytcode": "AoGHq0PRFrQ",
-      "publisher": "Hypno",
-      "list": [
-        {
-          "name": "[First Victor] KSol",
-          "link": "https://youtu.be/BYTezCvXFHM?si=8Fm7hE4fn1d0EfqJ"
-        },
-        {
-          "name": "Jager",
-          "link": "https://youtu.be/AoGHq0PRFrQ"
-        },
-        {
-          "name": "Willow",
-          "link": "https://youtu.be/dD3zyXwgiNI"
         }
       ],
       "progresses": [

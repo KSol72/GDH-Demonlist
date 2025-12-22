@@ -1,4 +1,26 @@
 {
+        "Clarity": {
+      "name": "Clarity",
+      "ytcode": "AoGHq0PRFrQ",
+      "publisher": "Hypno",
+      "list": [
+        {
+          "name": "[First Victor] KSol",
+          "link": "https://youtu.be/BYTezCvXFHM?si=8Fm7hE4fn1d0EfqJ"
+        },
+        {
+          "name": "Jager",
+          "link": "https://youtu.be/AoGHq0PRFrQ"
+        },
+        {
+          "name": "Willow",
+          "link": "https://youtu.be/dD3zyXwgiNI"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
       "Corrosion": {
       "name": "Corrosion",
       "ytcode": "yc4gYY1vJgw",
