@@ -1276,6 +1276,20 @@
         "none"
       ]
     },
+          "CLOWNS": {
+      "name": "CLOWNS",
+      "ytcode": "7Gse-MtgPRs",
+      "publisher": "Avanna",
+      "list": [
+        {
+          "name": "[First Victor] Jager",
+          "link": "https://youtu.be/7Gse-MtgPRs"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
       "Fexty": {
       "name": "Fexty",
       "ytcode": "r3Wz2RqwrKk",
@@ -1832,7 +1846,11 @@
       },
       {
         "name": "Halledo",
-        "link": "https://youtu.be/t82VFCLzH9g?si=GFKqIfuRf7qAz7Yx"
+        "link": "https://youtu.be/t82VFCLzH9g"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/QVn7SblaZV0"
       }
     ],
     "progresses": [
@@ -2070,6 +2088,20 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/3C3SVmtvkFk"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "The Gins II": {
+    "name": "The Gins II",
+    "ytcode": "h1vgSGVaODU",
+    "publisher": "Doggie",
+    "list": [
+      {
+        "name": "[First Victor] Jager",
+        "link": "https://youtu.be/V5w_vdhcFeY"
       }
     ],
     "progresses": [
@@ -2374,46 +2406,5 @@
     "progresses": [
       "none"
     ]
-  },
-    "Torgue": {
-    "name": "Torgue",
-    "ytcode": "1fpRLAutWAg",
-    "minimumPercent": 50,
-    "publisher": "Ryder",
-    "list": [
-      {
-        "name": "[First Victor] Aubrey",
-        "link": "https://youtu.be/TwDMtLKl6Wo"
-      },
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/fLNSrB0wbU0"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/TnO1rX-TUUs?t=106"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-      "Air Tech": {
-      "name": "Air Tech",
-      "ytcode": "hs_1wYVDbQc",
-      "publisher": "Elevens",
-      "list": [
-        {
-          "name": "[First Victor] KSol",
-          "link": "https://youtu.be/JXW2-7Or2Ko?si=uT5r_DczglL75Zip"
-        },
-        {
-          "name": "Willow",
-          "link": "https://youtu.be/iVHCNKP6FFk"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
-    }
+  }
 }

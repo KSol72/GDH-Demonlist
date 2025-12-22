@@ -1,4 +1,45 @@
 {
+  "Torgue": {
+    "name": "Torgue",
+    "ytcode": "1fpRLAutWAg",
+    "minimumPercent": 50,
+    "publisher": "Ryder",
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/TwDMtLKl6Wo"
+      },
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/fLNSrB0wbU0"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/TnO1rX-TUUs?t=106"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+      "Air Tech": {
+      "name": "Air Tech",
+      "ytcode": "hs_1wYVDbQc",
+      "publisher": "Elevens",
+      "list": [
+        {
+          "name": "[First Victor] KSol",
+          "link": "https://youtu.be/JXW2-7Or2Ko?si=uT5r_DczglL75Zip"
+        },
+        {
+          "name": "Willow",
+          "link": "https://youtu.be/iVHCNKP6FFk"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
         "Clarity": {
       "name": "Clarity",
       "ytcode": "AoGHq0PRFrQ",
