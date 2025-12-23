@@ -187,6 +187,21 @@
       "none"
     ]
   },
+      "Hatred": {
+    "name": "Hatred",
+    "ytcode": "XkDcrHZS5QA",
+    "minimumPercent": 50,
+    "publisher": "Rob Buck",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/q694ZP3ZOrk"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
         "Berserk": {
     "name": "Berserk",
     "ytcode": "T_mZ65F4eGM",
@@ -2375,32 +2390,6 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/gDvOhinVixQ"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "The Lost Existence": {
-    "name": "The Lost Existence",
-    "ytcode": "89y7ohaSuBw",
-    "publisher": "JonathanGD",
-    "list": [
-      {
-        "name": "[First Victor] KSol",
-        "link": "https://youtu.be/OxqoGI7f1QA"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/arOT9WWkV8Q"
-      },
-      {
-        "name": "Jager",
-        "link": "https://youtu.be/fPv-XQy45tg"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/jF5WlpCk-vQ"
       }
     ],
     "progresses": [

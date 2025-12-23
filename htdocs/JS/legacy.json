@@ -1,4 +1,26 @@
 {
+      "The Lost Existence": {
+    "name": "The Lost Existence",
+    "ytcode": "89y7ohaSuBw",
+    "publisher": "JonathanGD",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/OxqoGI7f1QA"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/arOT9WWkV8Q"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/fPv-XQy45tg"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
   "Torgue": {
     "name": "Torgue",
     "ytcode": "1fpRLAutWAg",
