@@ -134,6 +134,10 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/RT0OiEmh7Ro"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/_9ntEpDuuIA"
       }
     ],
     "progresses": [
@@ -181,6 +185,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/vHK2g9CFeaQ"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/6HNFym1UXxo"
       }
     ],
     "progresses": [
@@ -290,7 +298,11 @@
         },
         {
           "name": "Willow",
-          "link": "https://youtu.be/FkYM56lN6EU"
+          "link": "https://youtu.be/OZ6rMx-JdGE"
+        },
+        {
+          "name": "GhostFire",
+          "link": "https://youtu.be/nh5-dbdREDs"
         }
       ],
       "progresses": [
@@ -306,6 +318,10 @@
         {
           "name": "[First Victor] SkellytonGuard",
           "link": "https://www.youtube.com/watch?v=YcBpm3B7ZvM"
+        },
+        {
+          "name": "GhostFire",
+          "link": "https://youtu.be/mgZaYqwKxh4"
         }
       ],
       "progresses": [
@@ -363,6 +379,10 @@
         {
           "name": "Jager",
           "link": "https://youtu.be/_950JVLLa94"
+        },
+        {
+          "name": "GhostFire",
+          "link": "https://youtu.be/rQU4DUd6m7I"
         }
       ],
       "progresses": [
@@ -377,6 +397,10 @@
      {
        "name": "[First Victor] KSol",
        "link": "https://youtu.be/JPYuc4NoNM0"
+     },
+     {
+       "name": "GhostFire",
+       "link": "https://youtu.be/dC4i1uU8nIE"
      }
    ],
    "progresses": [
@@ -396,6 +420,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/3GQLYORyvfY"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/X1AL3xmZcKY"
       }
     ],
     "progresses": [
@@ -516,6 +544,10 @@
       {
         "name": "[First Victor] Aubrey",
         "link": "https://youtu.be/rQG8zoIbO7I"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/VAbwbyLCqvg"
       }
     ],
     "progresses": [
@@ -549,14 +581,18 @@
       {
         "name": "YeahSlayed",
         "link": "https://youtu.be/XnIh-qNmPz8"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/82khEaPqysE"
       }
     ],
     "progresses": [
       "none"
     ]
   },
-    "Universe on Fire": {
-    "name": "Universe on Fire",
+    "Universe on fire": {
+    "name": "Universe on fire",
     "ytcode": "YybvCO_AbLE",
     "minimumPercent": 50,
     "publisher": "Tim1K",
@@ -564,6 +600,10 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/XnIh-qNmPz8"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/e4B5qzyR9mY"
       }
     ],
     "progresses": [
@@ -583,6 +623,10 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/LqqjvQAJjn8"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/1dLLvAbbGAM"
       }
     ],
     "progresses": [
@@ -663,6 +707,10 @@
       {
         "name": "Halledo",
         "link": "NA"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/ZX7JbUBiOHc"
       }
     ],
     "progresses": [
@@ -700,8 +748,12 @@
     "publisher": "zYuko",
     "list": [
       {
-        "name": "[First Victor] SkylltonGuard",
+        "name": "[First Victor] SkellytonGuard",
         "link": "https://youtu.be/m3ouH0kwTGk"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/l3PFeVKtp7A"
       }
     ],
     "progresses": [
@@ -795,6 +847,10 @@
       {
         "name": "[First Victor] KSol",
         "link": "N/A"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/EK34wJjzsrc"
       }
     ],
     "progresses": [
@@ -810,6 +866,10 @@
       {
         "name": "[First Victor] Willow",
         "link": "https://youtu.be/tmCo6EJ_z8I"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/EK34wJjzsrc"
       }
     ],
     "progresses": [
@@ -825,6 +885,10 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/vHctNu_djto"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/Vpf9cUpL7ag"
       }
     ],
     "progresses": [
@@ -864,6 +928,10 @@
       {
         "name": "Jager",
         "link": "https://youtu.be/SNfZi_9ETY4"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/Vpf9cUpL7ag"
       }
     ],
     "progresses": [
@@ -891,6 +959,10 @@
       {
         "name": "YeahSlayed",
         "link": "NA"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/w4PD4lm18RU"
       }
     ],
     "progresses": [
@@ -948,6 +1020,10 @@
       {
         "name": "Halledo",
         "link": "https://youtu.be/za0HSQptPzs"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/tTr5DHlQVXk"
       }
     ],
     "progresses": [
@@ -1044,6 +1120,10 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/29CmvqfmvlU"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/tTr5DHlQVXk"
       }
     ],
     "progresses": [
@@ -1097,6 +1177,10 @@
       {
         "name": "[First Victor] YeahSlayed",
         "link": "https://youtu.be/pGagx2Ef2Jw"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/b29s0wOnWLg"
       }
     ],
     "progresses": [
@@ -1219,6 +1303,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/ONQPTgD7RFg"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/W9LWjSgyYxs"
       }
     ],
     "progresses": [
@@ -1403,7 +1491,12 @@
       {
         "name": "Jager",
         "link": "https://youtu.be/QudLaHw8LVQ?si=3ZvhAlJJGix1BT63"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/YY-T-nQfyEc"
       }
+      
     ],
     "progresses": [
       {
@@ -1436,6 +1529,10 @@
       {
         "name": "[First Victor] KSol",
         "link": "NA"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/ZkzcQyKPXpY"
       }
     ],
     "progresses": [
@@ -1473,6 +1570,10 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/UvmCpT5Hbb4"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/kGrNMQFeMmg"
       }
     ],
     "progresses": [
@@ -1545,8 +1646,8 @@
       "none"
     ]
   },
-    "Reverence": {
-    "name": "Reverence",
+    "reverence": {
+    "name": "reverence",
     "ytcode": "H59K1y0m8zk",
     "minimumPercent": 50,
     "publisher": "Woom",
@@ -1562,6 +1663,10 @@
       {
         "name": "KSol",
         "link": "https://youtu.be/TD11y1ju-ss"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/-Bc19Tyau7A"
       }
     ],
     "progresses": [
@@ -1593,6 +1698,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/eULs8pqJoQk"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/P25WbZq9-Ks"
       }
     ],
     "progresses": [
@@ -1619,6 +1728,10 @@
       {
         "name": "Halledo",
         "link": "https://youtu.be/fQPeDFCW12I"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/mRgIUWzMydk"
       }
     ],
     "progresses": [
@@ -1656,6 +1769,10 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/uCHsYd36I3U"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/mRgIUWzMydk"
       }
     ],
     "progresses": [
@@ -1715,6 +1832,10 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/QORoYV5DEoQ"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/dk27LzfLBtk"
       }
     ],
     "progresses": [
@@ -1866,6 +1987,10 @@
       {
         "name": "Jager",
         "link": "https://youtu.be/QVn7SblaZV0"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/dk27LzfLBtk"
       }
     ],
     "progresses": [
@@ -1959,6 +2084,10 @@
         {
           "name": "Willow",
           "link": "https://youtu.be/mUml01bukxE?t=1014"
+        },
+        {
+          "name": "GhostFire",
+          "link": "https://youtu.be/_gOEZ856ZI8"
         }
       ],
       "progresses": [
@@ -2007,6 +2136,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/G5wIySW1nHw"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/uQ_qPAUIn5U"
       }
     ],
     "progresses": [
@@ -2103,6 +2236,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/3C3SVmtvkFk"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/_gOEZ856ZI8"
       }
     ],
     "progresses": [
@@ -2123,8 +2260,8 @@
       "none"
     ]
   },
-      "Just Dance": {
-      "name": "Just Dance",
+      "Just DANCE": {
+      "name": "Just DANCE",
       "ytcode": "vJaV3x_aQ34",
       "publisher": "Texic",
       "list": [
@@ -2135,6 +2272,10 @@
         {
           "name": "KSol",
           "link": "https://youtu.be/2gvM9ar3kmI?si=lRinDjPRogtxlk8Q"
+        },
+        {
+          "name": "GhostFire",
+          "link": "https://youtu.be/NIuXs1TI0R0"
         }
       ],
       "progresses": [
@@ -2165,6 +2306,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/7qpFFcpBJBA"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/0Ab5RX6rT0Y"
       }
     ],
     "progresses": [
@@ -2368,6 +2513,10 @@
       {
         "name": "Halledo",
         "link": "https://youtu.be/6clVX9YHh-Y"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/0Ab5RX6rT0Y"
       }
     ],
     "progresses": [
@@ -2390,6 +2539,10 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/gDvOhinVixQ"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/z_oVLdhLtDg"
       }
     ],
     "progresses": [
