@@ -286,12 +286,7 @@
       }
     ],
     "progresses": [
-            {
-                "name": "Sulky",
-                "percent": 74,
-                "link": "https://youtu.be/1_4NmO4DqP0",
-                "hertz": "360"
-            }
+            "none"
         ]
   },
     "Lucid Nightmares": {
@@ -336,13 +331,8 @@
       }
     ],
     "progresses": [
-            {
-                "name": "Sulky",
-                "percent": 63,
-                "link": "https://youtu.be/Q6wCn-x0Tds",
-                "hertz": "360"
-            }
-    ]
+            "none"
+        ]
   },
     "Congregation": {
     "name": "Congregation",
