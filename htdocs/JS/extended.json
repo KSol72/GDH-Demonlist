@@ -1,5 +1,24 @@
   {
-        "Omicron": {
+    "Ethereal Artifice": {
+    "name": "Ethereal Artifice",
+    "ytcode": "nNIen4JDCiA",
+    "minimumPercent": 45,
+    "publisher": "Zeroya",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/JogFvc--grA"
+      },
+      {
+        "name": "KSol",
+        "link": "N/A"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Omicron": {
     "name": "Omicron",
     "ytcode": "TFFzcV_7Qrs",
     "publisher": "Team Proxima",
@@ -18,7 +37,7 @@
       "none"
     ]
   },
-        "Bass Cave": {
+    "Bass Cave": {
     "name": "Bass Cave",
     "ytcode": "Q7bBQDzUo8U",
     "minimumPercent": 50,
@@ -33,7 +52,7 @@
       "none"
     ]
   },
-        "distraught": {
+    "distraught": {
     "name": "distraught",
     "ytcode": "1CzGFhV3TAU",
     "minimumPercent": 50,
@@ -48,7 +67,7 @@
       "none"
     ]
   },
-      "Visurient": {
+    "Visurient": {
     "name": "Visurient",
     "ytcode": "v9ozM28yBl8",
     "minimumPercent": 50,
@@ -1529,6 +1548,20 @@
       "none"
     ]
   },
+     "Under lavaland": {
+   "name": "Under lavaland",
+   "ytcode": "sZxZiqEKvHk",
+   "publisher": "Inergy",
+   "list": [
+     {
+       "name": "[First Victor] AthenaFloof",
+       "link": "https://youtu.be/_Ruz2-xtrEo"
+     }
+   ],
+   "progresses": [
+     "none"
+   ]
+  },
     "Bloodbath": {
     "name": "Bloodbath",
     "ytcode": "twTw4fjT0ik",
@@ -1647,7 +1680,29 @@
       "none"
     ]
   },
-    "Steel Terrorse": {
+      "Marlboro reds": {
+    "name": "Marlboro reds",
+    "ytcode": "Rxb5iRPh_Gw",
+    "publisher": "xSlendy",
+    "list": [
+      {
+        "name": "[First Victor] GhostFire",
+        "link": "https://youtu.be/walNlG3RwF8"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/tID9eRcOUl8"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/HYcjz--pAQs"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Steel Terrors": {
     "name": "Steel Terrors",
     "ytcode": "Rxb5iRPh_Gw",
     "publisher": "DreamZoneGD",
@@ -1880,6 +1935,10 @@
       {
         "name": "Willow",
         "link": "https://youtu.be/AjD0DmJgkSI"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/CyzPmrAZlEg"
       }
     ],
     "progresses": [
@@ -1907,7 +1966,11 @@
     "publisher": "awesomeme360",
     "list": [
       {
-        "name": "[First Victor] KSol",
+        "name": "[First Victor] GhostFire",
+        "link": "https://youtu.be/qxf2bpmrvd8"
+      },
+      {
+        "name": "KSol",
         "link": "N/A"
       }
     ],
