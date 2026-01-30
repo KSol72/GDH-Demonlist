@@ -396,7 +396,10 @@
           "Falling Up",
           "Cataclysm",
           "Conical Depression",
-          "Bloodbath"
+          "Bloodbath",
+          "Cat Planet",
+          "Blade of Justice",
+          "Untitled"
         ],
         "progs": [
           "none"
@@ -451,7 +454,7 @@
         ]
     },
   "Jager": {
-   "nationality": "United_States",
+   "nationality": "China",
         "levels": [
           "Killbot",
           "Sakupen Hell",
