@@ -14,6 +14,21 @@
             "none"
         ]
    },
+    "The Yangire": {
+    "name": "The Yangire",
+    "ytcode": "V3FjIorIfWg",
+    "minimumPercent": 50,
+    "publisher": "Dorami",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/w7b077MsQlY"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+   },
     "Tartarus": {
     "name": "Tartarus",
     "ytcode": "oTJgv4k31RA",
@@ -1338,21 +1353,6 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/l9t7ucJzAg4"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Death": {
-    "name": "Death",
-    "ytcode": "uLZ6JZnHNVA",
-    "minimumPercent": 50,
-    "publisher": "AleeXhey",
-    "list": [
-      {
-        "name": "[First Victor] Willow",
-        "link": "https://youtu.be/sHzRn6fQG8k"
       }
     ],
     "progresses": [

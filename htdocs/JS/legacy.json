@@ -1,4 +1,19 @@
 {
+     "AcropoliX": {
+    "name": "AcropoliX",
+    "ytcode": "osGB9npZiUY",
+    "minimumPercent": 50,
+    "publisher": "Souls TRK",
+    "list": [
+      {
+        "name": "[First Victor] Jager",
+        "link": "https://youtu.be/RlMePcrq3Lg?si=8AgL9OSCQ3UiGu2s"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
       "niflhel": {
     "name": "niflhel",
     "ytcode": "s_aBVGcQo6Q",

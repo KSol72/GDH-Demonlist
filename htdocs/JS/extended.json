@@ -1,4 +1,19 @@
   {
+        "Death": {
+    "name": "Death",
+    "ytcode": "uLZ6JZnHNVA",
+    "minimumPercent": 50,
+    "publisher": "AleeXhey",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/sHzRn6fQG8k"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
     "Ethereal Artifice": {
     "name": "Ethereal Artifice",
     "ytcode": "nNIen4JDCiA",
@@ -2524,21 +2539,6 @@
       {
         "name": "AthenaFloof",
         "link": "https://youtu.be/AMULILL-iiE"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-   "AcropoliX": {
-    "name": "AcropoliX",
-    "ytcode": "osGB9npZiUY",
-    "minimumPercent": 50,
-    "publisher": "Souls TRK",
-    "list": [
-      {
-        "name": "[First Victor] Jager",
-        "link": "https://youtu.be/RlMePcrq3Lg?si=8AgL9OSCQ3UiGu2s"
       }
     ],
     "progresses": [
