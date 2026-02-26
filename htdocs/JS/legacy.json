@@ -1,4 +1,107 @@
 {
+        "Just DANCE": {
+      "name": "Just DANCE",
+      "ytcode": "vJaV3x_aQ34",
+      "publisher": "Texic",
+      "list": [
+        {
+          "name": "Aubrey",
+          "link": "https://youtu.be/39YIn0bkyHk?si=hApfSAd5ONoKdALV"
+        },
+        {
+          "name": "KSol",
+          "link": "https://youtu.be/2gvM9ar3kmI?si=lRinDjPRogtxlk8Q"
+        },
+        {
+          "name": "GhostFire",
+          "link": "https://youtu.be/NIuXs1TI0R0"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
+    "Incipient": {
+    "name": "Incipient",
+    "ytcode": "EaYo0M9bYgA",
+    "publisher": "Jenkins",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/ZAN-LeR4kRM"
+      },
+      {
+        "name": "Aubrey",
+        "link": "https://youtu.be/sRhuGFY_ekU"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/zJy4c1NkTaE"
+      },
+      {
+        "name": "Chuck Danger",
+        "link": "https://youtu.be/TT63SYZLdmk"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/7qpFFcpBJBA"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/0Ab5RX6rT0Y"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+      "Melon River": {
+      "name": "Melon River",
+      "ytcode": "jwbAbnEgq6Q",
+      "publisher": "ImMaxX1",
+      "list": [
+        {
+          "name": "[First Victor] KSol",
+          "link": "NA"
+        }
+      ],
+      "progresses": [
+        "none"
+      ]
+    },
+    "Doop": {
+    "name": "Doop",
+    "ytcode": "S1Df7xtX_lc",
+    "publisher": "We4therMan",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/ln-I-WbTq5A"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Castling": {
+    "name": "Castling",
+    "ytcode": "lY5bxPZO4Tc",
+    "minimumPercent": 50,
+    "publisher": "Meroo",
+    "list": [
+      {
+        "name": "[First Victor] Willow",
+        "link": "https://youtu.be/7eiJt0DKBCA"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/AMULILL-iiE"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
      "AcropoliX": {
     "name": "AcropoliX",
     "ytcode": "osGB9npZiUY",

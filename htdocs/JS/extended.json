@@ -1,5 +1,104 @@
   {
-        "Death": {
+        "ZAPHKIEL": {
+    "name": "ZAPHKIEL",
+    "ytcode": "x0L1UwvNQrs",
+    "publisher": "Darwin",
+    "minimumPercent": 50,
+    "list": [
+      {
+        "name": "[First Victor] Aubrey",
+        "link": "https://youtu.be/HKC3BVIeXgg"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/oxrX7bB3hJw"
+      },
+      {
+        "name": "GhostFire",
+        "link": "https://youtu.be/VgsLNkuijfo"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Killbot": {
+    "name": "Killbot",
+    "ytcode": "UonHC6427Q8",
+    "minimumPercent": 50,
+    "publisher": "Lithifusion",
+    "list": [
+      {
+        "name": "[First Victor] YeahSlayed",
+        "link": "https://youtu.be/dZbgP5zaqoU"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/n_C9Nh_Uy7U"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/XqHnf2Befuo"
+      },
+      {
+        "name": "Jager",
+        "link": "https://youtu.be/o_Ug-Ta65l0"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Belloq": {
+    "name": "Belloq",
+    "ytcode": "zvM7pOzztAQ",
+    "minimumPercent": 50,
+    "publisher": "Sminx",
+    "list": [
+      {
+        "name": "[First Victor] KSol",
+        "link": "https://youtu.be/tFmL_xsjYgM"
+      },
+      {
+        "name": "AthenaFloof",
+        "link": "https://youtu.be/RC5z0P58Gyw"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Astral Divinity": {
+    "name": "Astral Divinity",
+    "ytcode": "kQ65aqmYUdY",
+    "minimumPercent": 50,
+    "publisher": "Knobbelboy",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/l9t7ucJzAg4"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "MISFIRE": {
+    "name": "MISFIRE",
+    "ytcode": "0t8Cgsu6b4Y",
+    "minimumPercent": 50,
+    "publisher": "Galaxxyss",
+    "list": [
+      {
+        "name": "[First Victor] GhostFire",
+        "link": "https://youtu.be/6U0rss6BGwI"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
+    "Death": {
     "name": "Death",
     "ytcode": "uLZ6JZnHNVA",
     "minimumPercent": 50,
@@ -2436,109 +2535,6 @@
       {
         "name": "[First Victor] Jager",
         "link": "https://youtu.be/V5w_vdhcFeY"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-      "Just DANCE": {
-      "name": "Just DANCE",
-      "ytcode": "vJaV3x_aQ34",
-      "publisher": "Texic",
-      "list": [
-        {
-          "name": "Aubrey",
-          "link": "https://youtu.be/39YIn0bkyHk?si=hApfSAd5ONoKdALV"
-        },
-        {
-          "name": "KSol",
-          "link": "https://youtu.be/2gvM9ar3kmI?si=lRinDjPRogtxlk8Q"
-        },
-        {
-          "name": "GhostFire",
-          "link": "https://youtu.be/NIuXs1TI0R0"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
-    },
-    "Incipient": {
-    "name": "Incipient",
-    "ytcode": "EaYo0M9bYgA",
-    "publisher": "Jenkins",
-    "list": [
-      {
-        "name": "[First Victor] Willow",
-        "link": "https://youtu.be/ZAN-LeR4kRM"
-      },
-      {
-        "name": "Aubrey",
-        "link": "https://youtu.be/sRhuGFY_ekU"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/zJy4c1NkTaE"
-      },
-      {
-        "name": "Chuck Danger",
-        "link": "https://youtu.be/TT63SYZLdmk"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/7qpFFcpBJBA"
-      },
-      {
-        "name": "GhostFire",
-        "link": "https://youtu.be/0Ab5RX6rT0Y"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-      "Melon River": {
-      "name": "Melon River",
-      "ytcode": "jwbAbnEgq6Q",
-      "publisher": "ImMaxX1",
-      "list": [
-        {
-          "name": "[First Victor] KSol",
-          "link": "NA"
-        }
-      ],
-      "progresses": [
-        "none"
-      ]
-    },
-    "Doop": {
-    "name": "Doop",
-    "ytcode": "S1Df7xtX_lc",
-    "publisher": "We4therMan",
-    "list": [
-      {
-        "name": "[First Victor] Willow",
-        "link": "https://youtu.be/ln-I-WbTq5A"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Castling": {
-    "name": "Castling",
-    "ytcode": "lY5bxPZO4Tc",
-    "minimumPercent": 50,
-    "publisher": "Meroo",
-    "list": [
-      {
-        "name": "[First Victor] Willow",
-        "link": "https://youtu.be/7eiJt0DKBCA"
-      },
-      {
-        "name": "AthenaFloof",
-        "link": "https://youtu.be/AMULILL-iiE"
       }
     ],
     "progresses": [
