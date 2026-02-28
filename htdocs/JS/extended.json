@@ -1,4 +1,31 @@
   {
+    "Digital Descent": {
+    "name": "Digital Descent",
+    "ytcode": "yWa3tXuLYEo",
+    "minimumPercent": 50,
+    "publisher": "Viprin",
+    "list": [
+      {
+        "name": "[First Victor] AthenaFloof",
+        "link": "https://youtu.be/63RhvFndDRA"
+      },
+      {
+        "name": "KSol",
+        "link": "https://youtu.be/PnypOp5qPl8"
+      },
+      {
+        "name": "Willow",
+        "link": "https://youtu.be/R4nmKRbc_gc"
+      },
+      {
+        "name": "Halledo",
+        "link": "https://youtu.be/sooR7cM-6N0"
+      }
+    ],
+    "progresses": [
+      "none"
+    ]
+  },
         "ZAPHKIEL": {
     "name": "ZAPHKIEL",
     "ytcode": "x0L1UwvNQrs",
@@ -2525,20 +2552,6 @@
       {
         "name": "GhostFire",
         "link": "https://youtu.be/_gOEZ856ZI8"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "The Gins II": {
-    "name": "The Gins II",
-    "ytcode": "hJ9Y9HArMAI",
-    "publisher": "Doggie",
-    "list": [
-      {
-        "name": "[First Victor] Jager",
-        "link": "https://youtu.be/V5w_vdhcFeY"
       }
     ],
     "progresses": [

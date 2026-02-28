@@ -29,6 +29,21 @@
             "none"
         ]
    },
+    "UNKNOWN": {
+    "name": "UNKNOWN",
+    "ytcode": "4Xwq3dpIlRw",
+    "minimumPercent": 66,
+    "publisher": "NineDice",
+    "list": [
+      {
+        "name": "[First Victor] Jager",
+        "link": "Upcoming"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+   },
     "Tartarus": {
     "name": "Tartarus",
     "ytcode": "hc5aezsRdCs",
@@ -1302,33 +1317,6 @@
       {
         "name": "GhostFire",
         "link": "https://youtu.be/q35Nq4mfjZw"
-      }
-    ],
-    "progresses": [
-      "none"
-    ]
-  },
-    "Digital Descent": {
-    "name": "Digital Descent",
-    "ytcode": "yWa3tXuLYEo",
-    "minimumPercent": 50,
-    "publisher": "Viprin",
-    "list": [
-      {
-        "name": "[First Victor] AthenaFloof",
-        "link": "https://youtu.be/63RhvFndDRA"
-      },
-      {
-        "name": "KSol",
-        "link": "https://youtu.be/PnypOp5qPl8"
-      },
-      {
-        "name": "Willow",
-        "link": "https://youtu.be/R4nmKRbc_gc"
-      },
-      {
-        "name": "Halledo",
-        "link": "https://youtu.be/sooR7cM-6N0"
       }
     ],
     "progresses": [
