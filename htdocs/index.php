@@ -30,7 +30,7 @@ $_SESSION['active-nav'] = 'index';
     <p><a href = "Extendedlist.html">Extended page</a></p> -->
     <div id="levels-container"> 
       <h1 style = "text-align:center">Main List</h1>
-            <p style = "text-align:center">All of these levels are very hard, and award points for completions!<br> Want to submit a record? Submit it <a href = "https://discord.com/channels/701253096004649091/858490324183023646/858492451073425438" target = "_blank">here!</a></p>
+            <p style = "text-align:center">All of these levels are very hard, and award points for completions!<br>List Qualifications for the Top 10 demons can be found in the pinned message in #sl-news<br>Want to submit a record? Submit it <a href = "https://discord.com/channels/701253096004649091/858490324183023646/858492451073425438" target = "_blank">here!</a></p>
     </div>
 
     <!-- scripts to include -->
