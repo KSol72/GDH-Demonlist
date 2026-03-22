@@ -29,21 +29,6 @@
             "none"
         ]
    },
-    "UNKNOWN": {
-    "name": "UNKNOWN",
-    "ytcode": "eguXqRnu_8M",
-    "minimumPercent": 66,
-    "publisher": "NineDice",
-    "list": [
-      {
-        "name": "[First Victor] Jager",
-        "link": "https://youtu.be/eguXqRnu_8M"
-      }
-    ],
-    "progresses": [
-            "none"
-        ]
-   },
     "Tartarus": {
     "name": "Tartarus",
     "ytcode": "hc5aezsRdCs",
@@ -63,7 +48,7 @@
             "none"
         ]
    },
-  "The Golden": {
+    "The Golden": {
     "name": "The Golden",
     "ytcode": "9THHBL1PzLM",
     "minimumPercent": 61,
@@ -72,6 +57,21 @@
       {
         "name": "[First Victor] AthenaFloof",
         "link": "https://youtu.be/9THHBL1PzLM"
+      }
+    ],
+    "progresses": [
+            "none"
+        ]
+   },
+    "UNKNOWN": {
+    "name": "UNKNOWN",
+    "ytcode": "eguXqRnu_8M",
+    "minimumPercent": 66,
+    "publisher": "NineDice",
+    "list": [
+      {
+        "name": "[First Victor] Jager",
+        "link": "https://youtu.be/eguXqRnu_8M"
       }
     ],
     "progresses": [
