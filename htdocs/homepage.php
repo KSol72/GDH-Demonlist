@@ -44,7 +44,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         <div class = "card">
           <button class = "collapsible">
             <div class = "title">
-              <h2 class = "date">These are the rules.  Please read them.</h2>
+              <h2 class = "date">These are the rules.  Please read them. (CLICK)</h2>
             </div>
           </button>
           <div class = "content">
@@ -52,7 +52,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
             <ul>
               <li>Do not use any cheats such as Noclip, Speedhack, Hitboxes, Botting software, and whatever that will obviously get you banned from the list.</li>
               <li>Must have proof you beat a level. Unless you are trustworthy or had a List Editor witness it.</li>
-              <li>The highest frame rate you can go is 360FPS.</li> </ul> 
+              <li>The highest frame rate you can go is 360FPS if 2.1 GDPS is used.</li> </ul> 
             <h1>Standards</h1>
               <ul>
               <li>Unrated levels can get onto the list if it has had effort put into it, or is a known level (e.g Haymaker)</li>
