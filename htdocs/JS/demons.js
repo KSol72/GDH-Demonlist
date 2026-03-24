@@ -57,7 +57,7 @@ function appendData(data) {
        background-image: url(&quot;https://i.ytimg.com/vi/${level.ytcode}/mqdefault.jpg&quot;);" 
        data-property="background-image" 
        data-property-value="url('https://i.ytimg.com/vi/${level.ytcode}/mqdefault.jpg')" onclick="window.open('https://www.youtube.com/watch?v=${level.ytcode}','_blank')"
-       title="Clicking on the image will take you to the verification video.">
+       title="Clicking on this image will take you to a completion video.">
        </div>
        <div class = "title">
        <h2>${counter}. ${level.name} by ${level.publisher}</h2>
