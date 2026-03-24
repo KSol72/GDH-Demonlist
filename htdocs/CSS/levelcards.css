@@ -522,3 +522,11 @@ body {
     flex-flow: row nowrap;
     color: white;
 }
+
+.list-qual {
+  background-color: #0e0f10;
+  color: white;
+  font-size: 0.9em;
+  margin-left: 3%;
+  opacity: 0.8;
+}
