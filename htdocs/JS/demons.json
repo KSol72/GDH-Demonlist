@@ -1163,7 +1163,12 @@
       }
     ],
     "progresses": [
-      "none"
+      {
+                "name": "Jager",
+                "percent": 85,
+                "link": "NA",
+                "hertz": "480"
+      }
     ]
   },
    "Timor": {
