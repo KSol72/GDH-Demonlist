@@ -502,10 +502,6 @@ body {
   margin-left: 3%;
 }
 
-.title h2 {
-  margin-bottom: 0;
-} /* WE FINNA BLOW GDH UP */
-
 .LevelCard{
   background-color: #0e0f10;
   color: white;
@@ -532,7 +528,5 @@ body {
   color: white;
   font-size: 0.9em;
   margin-left: 3%;
-  margin-top: 0;
-  margin-bottom: 6px;
   opacity: 0.8;
 }
