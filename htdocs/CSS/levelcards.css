@@ -528,7 +528,6 @@ body {
   color: white;
   font-size: 0.9em;
   margin-left: 3%;
+  margin-top: -8px;
   opacity: 0.8;
-  position: relative; 
-    top: -50px; /*this shit better work */
 }
