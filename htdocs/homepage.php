@@ -26,6 +26,8 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
       padding:10px 20px;
       font-size:18px;
       cursor:pointer;
+      background:rgba(0,0,0,0.7);
+      color: white;
     }
 
     .modal {
@@ -40,7 +42,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     }
 
     .modal-content {
-      background:white;
+      background:red;
       padding:20px;
       border-radius:10px;
       width:350px;
@@ -88,7 +90,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
 
 <div id="levels-container"> 
   <h1 style="text-align:center">Gamers Dream House List</h1>
-  <p style="text-align:center">Credits to LRR and IDL for code usage :3</p>
+  <p style="text-align:center">Credits to LRR and IDL for code usage :3 changetest1</p>
 
   <div class="card">
     <button class="collapsible">
