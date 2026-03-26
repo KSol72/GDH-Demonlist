@@ -35,7 +35,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   
     <div id="levels-container"> 
       <h1 style = "text-align:center">Extended Demons List</h1>
-      <p style = "text-align:center">All of these levels are still very hard, but they don't quite make the cut for the Top 75. They still award points, though, and basically function the same way as the Main List.<br> Want to submit a record? Submit it <a href = "https://discord.com/channels/701253096004649091/858490324183023646/858492451073425438" target = "_blank">here!</a></p>
+      <p style = "text-align:center">All of these levels are still very hard, but they don't quite make the cut for the Top 75.<br>They still award points, though, and basically function the same way as the Main List.<br> Want to submit a record? Submit it <a href = "https://discord.com/channels/701253096004649091/858490324183023646/858492451073425438" target = "_blank">here!</a></p>
     </div>
 
     <!-- scripts to include -->
