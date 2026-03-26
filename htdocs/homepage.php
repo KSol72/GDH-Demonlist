@@ -26,7 +26,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
       padding:10px 20px;
       font-size:18px;
       cursor:pointer;
-      background:rgba(255, 255, 255, 0.7);
+      background:rgba(68, 68, 68, 0.7);
       color: white;
     }
 
@@ -35,6 +35,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
       top:0; left:0;
       width:100%; height:100%;
       background:rgba(0,0,0,0.7);
+      color:white;
       display:none;
       justify-content:center;
       align-items:center;
