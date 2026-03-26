@@ -26,7 +26,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
       padding:10px 20px;
       font-size:18px;
       cursor:pointer;
-      background:rgba(0,0,0,0.7);
+      background:rgba(255, 255, 255, 0.7);
       color: white;
     }
 
@@ -42,7 +42,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     }
 
     .modal-content {
-      background:red;
+      background:rgba(58, 58, 58, 0.7);
       padding:20px;
       border-radius:10px;
       width:350px;
