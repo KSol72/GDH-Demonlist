@@ -44,6 +44,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
 
     .modal-content {
       background:rgba(58, 58, 58, 0.7);
+      color:white;
       padding:20px;
       border-radius:10px;
       width:350px;
