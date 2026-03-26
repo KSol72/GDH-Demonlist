@@ -1,117 +1,70 @@
 <?php
-session_start();
+// READ JSON INPUT (this matches your frontend fetch)
+$data = json_decode(file_get_contents("php://input"), true);
 
-// ===== CONFIG (DO NOT TOUCH) =====
+// GET VALUES SAFELY
+$level = isset($data["level"]) ? trim($data["level"]) : "";
+$user  = isset($data["user"]) ? trim($data["user"]) : "";
+$video = isset($data["video"]) ? trim($data["video"]) : "";
+
+// VALIDATION
+if ($level === "" || $user === "" || $video === "") {
+    echo "Error: Missing required fields";
+    exit;
+}
+
+// ✅ CORRECT PATH FOR YOUR PROJECT
 $basePath = "/home/coder/GDH-Demonlist/htdocs/JS/";
 
-// ===== FILE PATHS =====
 $demonsFile = $basePath . "demons.json";
 $leaderboardFile = $basePath . "leaderboard.json";
-$levelListFile = $basePath . "levellist.json";
 
-// ===== GET FORM DATA =====
-$player = trim($_POST['player'] ?? '');
-$level = trim($_POST['level'] ?? '');
-$proof = trim($_POST['proof'] ?? '');
+// LOAD JSON FILES
+$demons = json_decode(file_get_contents($demonsFile), true);
+$leaderboard = json_decode(file_get_contents($leaderboardFile), true);
 
-// ===== BASIC VALIDATION =====
-if ($player === '' || $level === '' || $proof === '') {
-    die("❌ Error: Missing required fields.");
+// CHECK LEVEL EXISTS
+if (!isset($demons[$level])) {
+    echo "Error: Level not found";
+    exit;
 }
 
-// ===== LOAD FILES =====
-$demonsData = json_decode(file_get_contents($demonsFile), true);
-$leaderboardData = json_decode(file_get_contents($leaderboardFile), true);
-$levelListData = json_decode(file_get_contents($levelListFile), true);
-
-// ===== VALIDATE JSON =====
-if ($demonsData === null || $leaderboardData === null || $levelListData === null) {
-    die("❌ Error: Failed to read JSON files.");
-}
-
-// ===== CHECK IF LEVEL EXISTS IN levellist.json =====
-$validLevel = false;
-foreach ($levelListData as $lvl) {
-    if (strtolower($lvl['name']) === strtolower($level)) {
-        $validLevel = true;
-        $level = $lvl['name']; // normalize name
-        break;
+// PREVENT DUPLICATE RECORD
+foreach ($demons[$level]["list"] as $entry) {
+    if ($entry["name"] === $user) {
+        echo "Error: Already submitted";
+        exit;
     }
 }
 
-if (!$validLevel) {
-    die("❌ Error: Level does not exist in level list.");
-}
+// ADD TO DEMONS.JSON
+$demons[$level]["list"][] = [
+    "name" => $user,
+    "link" => $video
+];
 
-// ===== ADD TO DEMONS.JSON =====
-$levelFound = false;
-
-foreach ($demonsData as &$demon) {
-    if (strtolower($demon['name']) === strtolower($level)) {
-        $levelFound = true;
-
-        if (!isset($demon['records'])) {
-            $demon['records'] = [];
-        }
-
-        // Prevent duplicate submission
-        foreach ($demon['records'] as $record) {
-            if (strtolower($record['user']) === strtolower($player)) {
-                die("❌ Error: You already submitted this level.");
-            }
-        }
-
-        // Add record
-        $demon['records'][] = [
-            "user" => $player,
-            "link" => $proof,
-            "percent" => 100
-        ];
-
-        break;
-    }
-}
-
-if (!$levelFound) {
-    die("❌ Error: Level not found in demons list.");
-}
-
-// ===== UPDATE LEADERBOARD =====
-$playerFound = false;
-
-foreach ($leaderboardData as &$user) {
-    if (strtolower($user['name']) === strtolower($player)) {
-        $playerFound = true;
-
-        if (!isset($user['completions'])) {
-            $user['completions'] = [];
-        }
-
-        // Prevent duplicate
-        if (!in_array($level, $user['completions'])) {
-            $user['completions'][] = $level;
-        }
-
-        break;
-    }
-}
-
-// If player doesn't exist → create new
-if (!$playerFound) {
-    $leaderboardData[] = [
-        "name" => $player,
-        "completions" => [$level]
+// CREATE USER IF NOT EXISTS
+if (!isset($leaderboard[$user])) {
+    $leaderboard[$user] = [
+        "nationality" => "Unknown",
+        "levels" => [],
+        "progs" => ["none"]
     ];
 }
 
-// ===== SAVE FILES =====
-$demonsResult = file_put_contents($demonsFile, json_encode($demonsData, JSON_PRETTY_PRINT));
-$leaderboardResult = file_put_contents($leaderboardFile, json_encode($leaderboardData, JSON_PRETTY_PRINT));
-
-// ===== FINAL RESULT =====
-if ($demonsResult === false || $leaderboardResult === false) {
-    echo "❌ Error: Failed to save data. Check permissions.";
-} else {
-    echo "✅ Submission successful!";
+// ADD LEVEL TO USER PROFILE
+if (!in_array($level, $leaderboard[$user]["levels"])) {
+    $leaderboard[$user]["levels"][] = $level;
 }
-?>chmod -R 777 /home/coder/GDH-Demonlist/htdocs/JS
+
+// SAVE FILES
+$save1 = file_put_contents($demonsFile, json_encode($demons, JSON_PRETTY_PRINT));
+$save2 = file_put_contents($leaderboardFile, json_encode($leaderboard, JSON_PRETTY_PRINT));
+
+// FINAL RESPONSE
+if ($save1 === false || $save2 === false) {
+    echo "Error: Failed to save data";
+} else {
+    echo "Submission successful!";
+}
+?>
