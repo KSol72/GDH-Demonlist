@@ -10,19 +10,22 @@ if ($level === "" || $user === "" || $video === "") {
     exit;
 }
 
-// ✅ YOUR ACTUAL PATH
-$basePath = "/home/coder/GDH-Demonlist/htdocs/JS/";
+/*
+THIS IS THE KEY FIX:
+We dynamically find the REAL path instead of guessing
+*/
+$basePath = realpath(__DIR__ . "/JS") . "/";
 
 $demonsFile = $basePath . "demons.json";
 $leaderboardFile = $basePath . "leaderboard.json";
 
-// CHECK FILES
+// CHECK FILES EXIST
 if (!file_exists($demonsFile) || !file_exists($leaderboardFile)) {
     echo "Error: JSON files not found";
     exit;
 }
 
-// LOAD
+// LOAD DATA
 $demons = json_decode(file_get_contents($demonsFile), true);
 $leaderboard = json_decode(file_get_contents($leaderboardFile), true);
 
@@ -60,7 +63,7 @@ if (!in_array($level, $leaderboard[$user]["levels"])) {
     $leaderboard[$user]["levels"][] = $level;
 }
 
-// SAVE
+// SAVE FILES
 $save1 = file_put_contents($demonsFile, json_encode($demons, JSON_PRETTY_PRINT));
 $save2 = file_put_contents($leaderboardFile, json_encode($leaderboard, JSON_PRETTY_PRINT));
 
