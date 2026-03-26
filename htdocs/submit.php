@@ -10,25 +10,24 @@ if(!$level || !$user || !$video){
     exit;
 }
 
-// LOAD FILES
 $demons = json_decode(file_get_contents("JS/demons.json"), true);
 $leaderboard = json_decode(file_get_contents("JS/leaderboard.json"), true);
 
-// VALIDATE LEVEL
+// VALIDATE LEVEL EXISTS
 if(!isset($demons[$level])){
-    echo "Invalid level!";
+    echo "Level not found!";
     exit;
 }
 
 // PREVENT DUPLICATE
 foreach($demons[$level]["list"] as $entry){
     if($entry["name"] === $user){
-        echo "You already submitted this!";
+        echo "Already submitted!";
         exit;
     }
 }
 
-// ADD TO DEMONS
+// ADD TO DEMONS.JSON
 $demons[$level]["list"][] = [
     "name" => $user,
     "link" => $video
@@ -43,12 +42,12 @@ if(!isset($leaderboard[$user])){
     ];
 }
 
-// ADD LEVEL
+// ADD LEVEL TO USER
 if(!in_array($level, $leaderboard[$user]["levels"])){
     $leaderboard[$user]["levels"][] = $level;
 }
 
-// SAVE
+// SAVE FILES
 file_put_contents("JS/demons.json", json_encode($demons, JSON_PRETTY_PRINT));
 file_put_contents("JS/leaderboard.json", json_encode($leaderboard, JSON_PRETTY_PRINT));
 

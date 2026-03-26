@@ -26,8 +26,6 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
       padding:10px 20px;
       font-size:18px;
       cursor:pointer;
-      background:rgba(68, 68, 68, 0.7);
-      color: white;
     }
 
     .modal {
@@ -35,7 +33,6 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
       top:0; left:0;
       width:100%; height:100%;
       background:rgba(0,0,0,0.7);
-      color:white;
       display:none;
       justify-content:center;
       align-items:center;
@@ -43,15 +40,13 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     }
 
     .modal-content {
-      background:rgba(58, 58, 58, 0.7);
-      color:white;
+      background:white;
       padding:20px;
       border-radius:10px;
       width:350px;
     }
 
-    .modal-content input,
-    .modal-content textarea {
+    .modal-content input {
       width:100%;
       margin-bottom:10px;
       padding:6px;
@@ -82,46 +77,19 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <label>Video URL</label>
     <input type="text" id="videoUrl">
 
-    <label>Comments</label>
-    <textarea id="comments"></textarea>
-
     <button id="submitRecord">Submit</button>
     <button onclick="closeModal()">Cancel</button>
   </div>
 </div>
 
-<div id="levels-container"> 
-  <h1 style="text-align:center">Gamers Dream House List</h1>
-  <p style="text-align:center">Credits to LRR and IDL for code usage :3 changetest1</p>
+<!-- MAIN LIST ONLY (NO RULES ANYMORE) -->
+<div id="levels-container"></div>
 
-  <div class="card">
-    <button class="collapsible">
-      <div class="title">
-        <h2 class="date">These are the rules. Please read them. (CLICK)</h2>
-      </div>
-    </button>
-    <div class="content">
-      <h1>Rules</h1>
-      <ul>
-        <li>No cheats (noclip, botting, etc).</li>
-        <li>Must have proof unless trusted.</li>
-        <li>Max FPS is 360.</li>
-      </ul>
-
-      <h1>Standards</h1>
-      <ul>
-        <li>No layouts</li>
-        <li>Insane demon or higher</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<!-- YOUR ORIGINAL DEMON LIST SCRIPT -->
+<!-- YOUR ORIGINAL LIST SCRIPT -->
 <script src="JS/demons.js"></script>
 
 <script>
-// ===== LOAD LEVEL AUTOFILL =====
+// ===== LEVEL AUTOFILL =====
 fetch("JS/levellist.json")
 .then(res => res.json())
 .then(data => {
@@ -133,7 +101,7 @@ fetch("JS/levellist.json")
   });
 });
 
-// ===== LOAD USER AUTOFILL =====
+// ===== USER AUTOFILL =====
 fetch("JS/leaderboard.json")
 .then(res => res.json())
 .then(data => {
@@ -159,8 +127,7 @@ document.getElementById("submitRecord").onclick = () => {
   const data = {
     level: document.getElementById("levelName").value,
     user: document.getElementById("username").value,
-    video: document.getElementById("videoUrl").value,
-    comments: document.getElementById("comments").value
+    video: document.getElementById("videoUrl").value
   };
 
   fetch("submit.php", {
