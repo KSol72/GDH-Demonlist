@@ -18,14 +18,18 @@ define('GH_REPO',   'KSol72/GDH-Demonlist');
 define('GH_BRANCH', 'main');
 
 function getToken() {
-    // 1. Environment variable (set in Replit Secrets as GH_TOKEN)
-    $env = getenv('GH_TOKEN');
-    if ($env) return $env;
-    // 2. Read from .git/config remote URL (works in dev)
-    $cfg = __DIR__ . '/../.git/config';
-    if (file_exists($cfg)) {
-        if (preg_match('/https:\/\/[^:]+:([^@]+)@github\.com/', file_get_contents($cfg), $m)) {
-            return $m[1];
+    // 1. getenv (Replit Secrets / any env var)
+    $t = getenv('GH_TOKEN');
+    if ($t) return $t;
+    // 2. $_ENV and $_SERVER (some PHP/hosting configs use these instead)
+    if (!empty($_ENV['GH_TOKEN']))    return $_ENV['GH_TOKEN'];
+    if (!empty($_SERVER['GH_TOKEN'])) return $_SERVER['GH_TOKEN'];
+    // 3. Read from .git/config remote URL (works in local dev)
+    foreach ([__DIR__ . '/../.git/config', '/home/coder/GDH-Demonlist/.git/config'] as $cfg) {
+        if (file_exists($cfg)) {
+            if (preg_match('/https:\/\/[^:]+:([^@]+)@github\.com/', file_get_contents($cfg), $m)) {
+                return $m[1];
+            }
         }
     }
     return null;
