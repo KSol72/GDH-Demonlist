@@ -67,18 +67,18 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <h2>Submit Record</h2>
 
     <label>Level Name</label>
-    <input list="levelList" id="levelName">
+    <input list="levelList" id="gdh-level" placeholder="Level name..." autocomplete="off">
     <datalist id="levelList"></datalist>
 
     <label>Username</label>
-    <input list="userList" id="username">
+    <input list="userList" id="gdh-user" placeholder="Your username..." autocomplete="off">
     <datalist id="userList"></datalist>
 
     <label>Video URL</label>
-    <input type="text" id="videoUrl">
+    <input type="text" id="gdh-video" placeholder="https://youtu.be/...">
 
-    <button id="submitRecord">Submit</button>
-    <button onclick="closeModal()">Cancel</button>
+    <button id="gdh-submit">Submit</button>
+    <button onclick="gdhCloseModal()">Cancel</button>
   </div>
 </div>
 
@@ -90,55 +90,64 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
 
 <script>
 // ===== LEVEL AUTOFILL =====
-fetch("JS/levellist.json")
-.then(res => res.json())
-.then(data => {
-  let list = document.getElementById("levelList");
-  data.levels.forEach(level => {
-    let option = document.createElement("option");
-    option.value = level;
-    list.appendChild(option);
+fetch("json-data.php?f=levellist")
+  .then(function(r) { return r.json(); })
+  .then(function(data) {
+    var list = document.getElementById("levelList");
+    data.levels.forEach(function(name) {
+      var opt = document.createElement("option");
+      opt.value = name;
+      list.appendChild(opt);
+    });
   });
-});
 
 // ===== USER AUTOFILL =====
-fetch("JS/leaderboard.json")
-.then(res => res.json())
-.then(data => {
-  let list = document.getElementById("userList");
-  Object.keys(data).forEach(user => {
-    let option = document.createElement("option");
-    option.value = user;
-    list.appendChild(option);
+fetch("json-data.php?f=leaderboard")
+  .then(function(r) { return r.json(); })
+  .then(function(data) {
+    var list = document.getElementById("userList");
+    Object.keys(data).forEach(function(name) {
+      var opt = document.createElement("option");
+      opt.value = name;
+      list.appendChild(opt);
+    });
   });
-});
 
 // ===== MODAL =====
-document.getElementById("openSubmit").onclick = () => {
+document.getElementById("openSubmit").onclick = function() {
   document.getElementById("submitModal").style.display = "flex";
 };
 
-function closeModal() {
+function gdhCloseModal() {
   document.getElementById("submitModal").style.display = "none";
 }
 
 // ===== SUBMIT =====
-document.getElementById("submitRecord").onclick = () => {
-  const data = {
-    level: document.getElementById("levelName").value,
-    user: document.getElementById("username").value,
-    video: document.getElementById("videoUrl").value
-  };
+document.getElementById("gdh-submit").onclick = function() {
+  var level = document.getElementById("gdh-level").value.trim();
+  var user  = document.getElementById("gdh-user").value.trim();
+  var video = document.getElementById("gdh-video").value.trim();
+
+  if (!level || !user || !video) {
+    alert("Please fill in all fields.");
+    return;
+  }
 
   fetch("submit.php", {
     method: "POST",
-    headers: {"Content-Type":"application/json"},
-    body: JSON.stringify(data)
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ level: level, user: user, video: video })
   })
-  .then(res => res.text())
-  .then(msg => {
+  .then(function(r) { return r.text(); })
+  .then(function(msg) {
     alert(msg);
-    location.reload();
+    if (msg === "Submission successful!") {
+      gdhCloseModal();
+      location.reload();
+    }
+  })
+  .catch(function() {
+    alert("Network error. Please try again.");
   });
 };
 </script>

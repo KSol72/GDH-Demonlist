@@ -1,83 +1,99 @@
 <?php
-$data = json_decode(file_get_contents("php://input"), true);
+header('Content-Type: text/plain');
 
-$level = isset($data["level"]) ? trim($data["level"]) : "";
-$user  = isset($data["user"]) ? trim($data["user"]) : "";
-$video = isset($data["video"]) ? trim($data["video"]) : "";
+// --- Parse input ---
+$input = json_decode(file_get_contents('php://input'), true);
+$level = isset($input['level']) ? trim($input['level']) : '';
+$user  = isset($input['user'])  ? trim($input['user'])  : '';
+$video = isset($input['video']) ? trim($input['video']) : '';
 
-if ($level === "" || $user === "" || $video === "") {
-    echo "Error: Missing required fields";
+if ($level === '' || $user === '' || $video === '') {
+    http_response_code(400);
+    echo 'Missing required fields';
     exit;
 }
 
-/*
-THIS IS THE KEY FIX:
-We dynamically find the REAL path instead of guessing
-*/
-$basePath = realpath(__DIR__ . "/JS") . "/";
+// --- Paths ---
+// Write to /tmp (always writable, even on Cloud Run / read-only deployments)
+$tmpDir = sys_get_temp_dir() . '/gdh-data';
+$srcDir = __DIR__ . '/JS';
 
-$demonsFile      = $basePath . "demons.json";
-$extendedFile    = $basePath . "extended.json";
-$leaderboardFile = $basePath . "leaderboard.json";
+if (!is_dir($tmpDir)) {
+    mkdir($tmpDir, 0777, true);
+}
 
-// CHECK FILES EXIST
-if (!file_exists($demonsFile) || !file_exists($extendedFile) || !file_exists($leaderboardFile)) {
-    echo "Error: JSON files not found";
+// Load a JSON file: prefer the tmp (updated) copy, fall back to source
+function loadJson($tmpDir, $srcDir, $name) {
+    $tmp = "$tmpDir/$name";
+    $src = "$srcDir/$name";
+    $path = file_exists($tmp) ? $tmp : $src;
+    if (!file_exists($path)) return null;
+    return json_decode(file_get_contents($path), true);
+}
+
+function saveJson($tmpDir, $name, $data) {
+    return file_put_contents(
+        "$tmpDir/$name",
+        json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
+    );
+}
+
+// --- Load data ---
+$demons      = loadJson($tmpDir, $srcDir, 'demons.json');
+$extended    = loadJson($tmpDir, $srcDir, 'extended.json');
+$leaderboard = loadJson($tmpDir, $srcDir, 'leaderboard.json');
+
+if ($demons === null || $extended === null || $leaderboard === null) {
+    http_response_code(500);
+    echo 'JSON files not found';
     exit;
 }
 
-// LOAD DATA
-$demons      = json_decode(file_get_contents($demonsFile), true);
-$extended    = json_decode(file_get_contents($extendedFile), true);
-$leaderboard = json_decode(file_get_contents($leaderboardFile), true);
-
-// FIND WHICH FILE CONTAINS THE LEVEL
+// --- Find the level ---
 if (isset($demons[$level])) {
-    $listData = &$demons;
-    $listFile = $demonsFile;
+    $targetData = $demons;
+    $targetFile = 'demons.json';
 } elseif (isset($extended[$level])) {
-    $listData = &$extended;
-    $listFile = $extendedFile;
+    $targetData = $extended;
+    $targetFile = 'extended.json';
 } else {
-    echo "Error: Level not found";
+    http_response_code(404);
+    echo 'Level not found';
     exit;
 }
 
-// PREVENT DUPLICATE
-foreach ($listData[$level]["list"] as $entry) {
-    if ($entry["name"] === $user) {
-        echo "Error: Already submitted";
+// --- Check for duplicate ---
+foreach ($targetData[$level]['list'] as $entry) {
+    if ($entry['name'] === $user) {
+        http_response_code(409);
+        echo 'Already submitted';
         exit;
     }
 }
 
-// ADD RECORD
-$listData[$level]["list"][] = [
-    "name" => $user,
-    "link" => $video
-];
+// --- Add the record ---
+$targetData[$level]['list'][] = ['name' => $user, 'link' => $video];
 
-// CREATE USER IF NEEDED
+// --- Update leaderboard ---
 if (!isset($leaderboard[$user])) {
     $leaderboard[$user] = [
-        "nationality" => "Unknown",
-        "levels" => [],
-        "progs" => ["none"]
+        'nationality' => 'Unknown',
+        'levels'      => [],
+        'progs'       => ['none']
     ];
 }
-
-// ADD LEVEL
-if (!in_array($level, $leaderboard[$user]["levels"])) {
-    $leaderboard[$user]["levels"][] = $level;
+if (!in_array($level, $leaderboard[$user]['levels'])) {
+    $leaderboard[$user]['levels'][] = $level;
 }
 
-// SAVE FILES
-$save1 = file_put_contents($listFile, json_encode($listData, JSON_PRETTY_PRINT));
-$save2 = file_put_contents($leaderboardFile, json_encode($leaderboard, JSON_PRETTY_PRINT));
+// --- Save both files ---
+$ok1 = saveJson($tmpDir, $targetFile, $targetData);
+$ok2 = saveJson($tmpDir, 'leaderboard.json', $leaderboard);
 
-if ($save1 === false || $save2 === false) {
-    echo "Error: Failed to save data";
+if ($ok1 === false || $ok2 === false) {
+    http_response_code(500);
+    echo 'Failed to save data';
 } else {
-    echo "Submission successful!";
+    echo 'Submission successful!';
 }
 ?>
