@@ -4,12 +4,12 @@
     <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "legacy"){echo 'active-nav-item';}?>" href="legacy.php">Legacy List</a></li>
     <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "Insane Demon List"){echo 'active-nav-item';}?>" href="InsaneDemonList.php">Insane Demon List</a></li>
     <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "extended"){echo 'active-nav-item';}?>" href="extended.php">Extended List</a></li>
-    <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "index"){echo 'active-nav-item';}?>" href="index.php">Main List</a></li>
+    <li class="redir"><a class="nav-buttons <?php if($_SESSION['active-nav'] == "homepage"){echo 'active-nav-item';}?>" href="homepage.php">Main List</a></li>
     <li class="titlebox"><a href="homepage.php" class="titlebox-href">GDH: Demonlist</a></li>
     <li>
     <button onclick="dropMenu()" class="dropbtn">Go To...</button>
         <div id="myDropdown" class="dropdown-content">
-            <a class="nav-buttons <?php if($_SESSION['active-nav'] == "index"){echo 'active-nav-item';}?>" href="index.php">Main List</a>
+            <a class="nav-buttons <?php if($_SESSION['active-nav'] == "homepage"){echo 'active-nav-item';}?>" href="homepage.php">Main List</a>
             <a class="nav-buttons <?php if($_SESSION['active-nav'] == "extended"){echo 'active-nav-item';}?>" href="extended.php">Extended List</a>
             <a class="nav-buttons <?php if($_SESSION['active-nav'] == "legacy"){echo 'active-nav-item';}?>" href="legacy.php">Legacy List</a>
             <a class="nav-buttons <?php if($_SESSION['active-nav'] == "Insane Demon List"){echo 'active-nav-item';}?>" href="InsaneDemonList.php">Insane Demon List</a>
